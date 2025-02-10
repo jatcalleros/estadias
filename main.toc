@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Oficio de autorización}{2}{section.1}%
+\contentsline {section}{\numberline {2}Agradecimientos}{3}{section.2}%
+\contentsline {section}{\numberline {3}Resumen}{4}{section.3}%
+\contentsline {section}{\numberline {4}Antecedentes de la Empresa}{5}{section.4}%
+\contentsline {section}{\numberline {5}Definicion Del Problema}{7}{section.5}%
+\contentsline {section}{Referencias}{8}{section*.2}%

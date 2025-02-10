@@ -1,0 +1,95 @@
+\documentclass[12pt,a4paper]{article}
+
+% --- Encoding and Language ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{csquotes}
+\usepackage{hyperref}
+\usepackage{apacite} % Cargado después de csquotes y babel
+\usepackage{float}
+\usepackage{microtype}            
+\usepackage{lipsum}
+
+\usepackage{geometry}
+\geometry{
+    top=2.5cm,
+    bottom=2.5cm,
+    left=3.0cm,
+    right=2.5cm,
+}
+
+% --- Spacing and fonts ---
+\usepackage{setspace}
+\onehalfspacing % Interlineado 1.5
+
+% --- Header and Footer ---
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot[C]{\thepage}
+
+% --- Bibliography Style ---
+\bibliographystyle{apacite} % Estilo de bibliografía APA con apacite
+
+% --- Document begins ---
+\begin{document}
+
+%--------------------------------------------------%
+% Portada %
+%--------------------------------------------------%
+
+\include{titlepage/titlepage}
+
+%--------------------------------------------------%
+% Índice (Tabla de contenidos) %
+%--------------------------------------------------%
+
+\tableofcontents
+\newpage
+
+%--------------------------------------------------%
+% Oficio de autorización %
+%--------------------------------------------------%
+
+\include{Body/oficio_de_autoricacion}
+
+%--------------------------------------------------%
+% Agradecimientos %
+%--------------------------------------------------%
+
+\include{Body/agradecimientos}
+
+%--------------------------------------------------%
+% Resumen %
+%--------------------------------------------------%
+
+\include{Body/Resumen}
+
+%--------------------------------------------------%
+% Introducción %
+%--------------------------------------------------%
+
+\include{Body/Intro/Intro}
+
+\include{Body/Intro/Antecedentes}
+
+\include{Body/Intro/Definicion_del_problema}
+
+\include{Body/Intro/Justificacion}
+
+\include{Body/Intro/Objetivos_y_metas}
+
+%--------------------------------------------------%
+% Anexos %
+%--------------------------------------------------%
+
+\include{Anexos}
+
+%--------------------------------------------------%
+% Fuentes Consultadas %
+%--------------------------------------------------%
+\bibliography{referencias} % Nombre del archivo .bib
+
+\end{document}

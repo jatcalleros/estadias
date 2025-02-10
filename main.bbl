@@ -1,0 +1,50 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
+\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
+{\protect \APACyear {2024}}%
+}]{%
+ipn_inauguracion_citta_juarez}
+\APACinsertmetastar {%
+ipn_inauguracion_citta_juarez}%
+\APACrefbtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez.} {Inauguran el centro de
+  innovación e integración de tecnologías avanzadas del ipn en ciudad
+  juárez.}
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACaddressPublisher{}{Instituto Politécnico Nacional (IPN)}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2021&n=150}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional}}{%
+\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional}}{%
+{\protect \APACyear {2024}}%
+}]{%
+diario_cambio_citta_puebla}
+\APACinsertmetastar {%
+diario_cambio_citta_puebla}%
+\APACrefbtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional.} {Sergio salomón inaugura en san josé
+  chiapa el ciita del instituto politécnico nacional.}
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACaddressPublisher{}{Diario Cambio}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.diariocambio.com.mx/2024/puebla/sergio-salomon-inaugura-en-san-jose-chiapa-el-ciita-del-instituto-politecnico-nacional-videos/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
