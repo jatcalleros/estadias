@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.2.9)  9 FEB 2025 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.2.9)  11 FEB 2025 09:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -561,15 +561,30 @@ l.50 \newpage
 \openout2 = `Body/Intro/Definicion_del_problema.aux'.
 
 
-(./Body/Intro/Definicion_del_problema.tex) [7
+(./Body/Intro/Definicion_del_problema.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+<../../Pictures/ciita_root_cause.png, id=88, 948.16734pt x 307.1475pt>
+File: ../../Pictures/ciita_root_cause.png Graphic file (type png)
+<use ../../Pictures/ciita_root_cause.png>
+Package pdftex.def Info: ../../Pictures/ciita_root_cause.png  used on input lin
+e 30.
+(pdftex.def)             Requested size: 441.01773pt x 142.8596pt.
+ [7
 
 
 
-]
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) [8 
+<../../Pictures/ciita_root_cause.png (PNG copy)>]
 \openout2 = `Body/Intro/Justificacion.aux'.
 
  (./Body/Intro/Justificacion.tex)
 \openout2 = `Body/Intro/Objetivos_y_metas.aux'.
+
 
 (./Body/Intro/Objetivos_y_metas.tex)
 \openout2 = `Anexos.aux'.
@@ -585,12 +600,6 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 23.
 
 Underfull \hbox (badness 1014) in paragraph at lines 16--26
 []\T1/cmr/m/it/12 (+20) Inauguran el cen-tro de in-no-va-ción e in-te-gra-ción 
@@ -609,7 +618,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--49
 [] -jose [] -chiapa [] -el [] -ciita []
  []
 
-) [8
+) [9
 
 
 
@@ -634,16 +643,16 @@ LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.86pt have occurred.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F4FDC362FC055B2298898EAF92EF7E5F;803.
+(rerunfilecheck)             Checksum: A34628BAF56B7EDDE844B99E83191CE2;806.
  ) 
 Here is how much of TeX's memory you used:
- 14569 strings out of 476041
- 243445 string characters out of 5793175
+ 14612 strings out of 476041
+ 244221 string characters out of 5793175
  1859388 words of memory out of 6000000
- 34669 multiletter control sequences out of 15000+600000
- 527161 words of font info for 94 fonts, out of 8000000 for 9000
+ 34684 multiletter control sequences out of 15000+600000
+ 528129 words of font info for 106 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 75i,11n,77p,1001b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,77p,1001b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/
 texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive
@@ -654,10 +663,10 @@ e1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/cm-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-s
 uper/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sf
 tt1200.pfb>
-Output written on main.pdf (9 pages, 489436 bytes).
+Output written on main.pdf (10 pages, 829882 bytes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
- 18 named destinations out of 1000 (max. 500000)
- 31286 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 163 PDF objects out of 1000 (max. 8388607)
+ 126 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 33339 words of extra memory for PDF output out of 35830 (max. 10000000)
 
