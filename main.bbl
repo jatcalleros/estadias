@@ -1,38 +1,78 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-\APACciteatitle {Inauguración del Centro de Innovación e Integración de
-  Tecnologías Avanzadas del IPN}}{%
-\APACciteatitle {Inauguración del Centro de Innovación e Integración de
-  Tecnologías Avanzadas del IPN}}{%
-{\protect \APACyear {2024}}%
+de Diputados%
+}{%
+de Diputados%
+}{%
+{\protect \APACyear {2010}}%
 }]{%
-ciita_inauguracion_2024}
+lfpdppp}
 \APACinsertmetastar {%
-ciita_inauguracion_2024}%
-{\BBOQ}\APACrefatitle {Inauguración del Centro de Innovación e Integración
-  de Tecnologías Avanzadas del IPN} {Inauguración del centro de innovación e
-  integración de tecnologías avanzadas del ipn}.{\BBCQ}
+lfpdppp}%
+\begin{APACrefauthors}%
+de Diputados, C.%
+\end{APACrefauthors}%
+\unskip\
 \newblock
-\APACrefYearMonthDay{2024}{}{}.
+\APACrefYearMonthDay{2010}{}{}.
 \newblock
-
+\APACrefbtitle {Ley Federal de Protección de Datos Personales en Posesión de
+  Particulares.} {Ley federal de protección de datos personales en posesión
+  de particulares.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACciteatitle {Inauguración del CIITA en Puebla}}{%
-\APACciteatitle {Inauguración del CIITA en Puebla}}{%
+de Economía%
+}{%
+de Economía%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+nom151}
+\APACinsertmetastar {%
+nom151}%
+\begin{APACrefauthors}%
+de Economía, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {NOM-151-SCFI-2016 - Seguridad de la Información.}
+  {Nom-151-scfi-2016 - seguridad de la información.}
+\newblock
+\begin{APACrefURL}
+  \url{https://www.dof.gob.mx/nota_detalle.php?codigo=5464453&fecha=25/07/2016}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
+\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
 {\protect \APACyear {2024}}%
 }]{%
-ciita_puebla_2024}
+ipn_inauguracion_citta_juarez}
 \APACinsertmetastar {%
-ciita_puebla_2024}%
-{\BBOQ}\APACrefatitle {Inauguración del CIITA en Puebla} {Inauguración del
-  ciita en puebla}.{\BBCQ}
+ipn_inauguracion_citta_juarez}%
+\APACrefbtitle {Inauguran el Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN en Ciudad Juárez.} {Inauguran el centro de
+  innovación e integración de tecnologías avanzadas del ipn en ciudad
+  juárez.}
 \newblock
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
-
+\APACaddressPublisher{}{Instituto Politécnico Nacional (IPN)}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2021&n=150}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -61,6 +101,29 @@ ipn2023}%
   {\url{https://www.ipn.mx/assets/files/secgeneral/docs/memorias/m2023/iita/ciita-chih.pdf}}.
 \newblock
 \APACrefnote{Consultado el [fecha de acceso]}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional}}{%
+\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional}}{%
+{\protect \APACyear {2024}}%
+}]{%
+diario_cambio_citta_puebla}
+\APACinsertmetastar {%
+diario_cambio_citta_puebla}%
+\APACrefbtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
+  Instituto Politécnico Nacional.} {Sergio salomón inaugura en san josé
+  chiapa el ciita del instituto politécnico nacional.}
+\newblock
+\APACrefYearMonthDay{2024}{}{}.
+\newblock
+\APACaddressPublisher{}{Diario Cambio}.
+\newblock
+\begin{APACrefURL}
+  \url{https://www.diariocambio.com.mx/2024/puebla/sergio-salomon-inaugura-en-san-jose-chiapa-el-ciita-del-instituto-politecnico-nacional-videos/}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

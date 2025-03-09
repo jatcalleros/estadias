@@ -2,7 +2,14 @@
 \contentsline {section}{\numberline {1}Oficio de autorización}{2}{section.1}%
 \contentsline {section}{\numberline {2}Agradecimientos}{3}{section.2}%
 \contentsline {section}{\numberline {3}Resumen}{4}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Antecedentes de la Empresa}{5}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Definición del Problema}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Justificación}{9}{subsection.3.3}%
-\contentsline {section}{Referencias}{10}{section*.2}%
+\contentsline {section}{\numberline {4}Introducción}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Antecedentes de la Empresa}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Definición del Problema}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Justificación}{9}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Impacto Institucional}{9}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Cumplimiento Normativo}{9}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Objetivos y Metas}{11}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Objetivo General}{11}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Objetivos Específicos}{11}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Metas Cuantificables}{11}{subsubsection.4.4.3}%
+\contentsline {section}{Referencias}{13}{section*.2}%

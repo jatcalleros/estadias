@@ -22,48 +22,54 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: referencias.bib
+Repeated entry---line 103 of file referencias.bib
+ : @misc{nom151
+ :             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 110 of file referencias.bib
+ : @misc{lfpdppp
+ :              ,
+I'm skipping whatever remains of this entry
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-Warning--No journal in ciita_inauguracion_2024
-Warning--No journal in ciita_puebla_2024
-You've used 3 entries,
+You've used 5 entries,
             6951 wiz_defined-function locations,
-            1291 strings with 11364 characters,
-and the built_in function-call counts, 4946 in all, are:
-= -- 651
-> -- 10
-< -- 256
-+ -- 257
-- -- 2
-* -- 318
-:= -- 977
-add.period$ -- 11
-call.type$ -- 3
-change.case$ -- 49
+            1302 strings with 11958 characters,
+and the built_in function-call counts, 8928 in all, are:
+= -- 1125
+> -- 30
+< -- 482
++ -- 473
+- -- 6
+* -- 572
+:= -- 1791
+add.period$ -- 21
+call.type$ -- 5
+change.case$ -- 83
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 69
-empty$ -- 201
-format.name$ -- 14
-if$ -- 937
+cite$ -- 10
+duplicate$ -- 149
+empty$ -- 379
+format.name$ -- 42
+if$ -- 1681
 int.to.chr$ -- 0
-int.to.str$ -- 9
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 57
-num.names$ -- 8
-pop$ -- 102
+newline$ -- 105
+num.names$ -- 24
+pop$ -- 350
 preamble$ -- 1
-purify$ -- 10
+purify$ -- 18
 quote$ -- 0
-skip$ -- 323
+skip$ -- 401
 stack$ -- 0
-substring$ -- 270
-swap$ -- 43
-text.length$ -- 6
+substring$ -- 496
+swap$ -- 73
+text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 276
-warning$ -- 2
-while$ -- 9
+type$ -- 448
+warning$ -- 0
+while$ -- 19
 width$ -- 0
-write$ -- 66
-(There were 2 warnings)
+write$ -- 118
+(There were 2 error messages)
