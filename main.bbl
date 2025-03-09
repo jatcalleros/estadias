@@ -1,50 +1,66 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
-  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
-\APACcitebtitle {Inauguran el Centro de Innovación e Integración de
-  Tecnologías Avanzadas del IPN en Ciudad Juárez}}{%
+\APACciteatitle {Inauguración del Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN}}{%
+\APACciteatitle {Inauguración del Centro de Innovación e Integración de
+  Tecnologías Avanzadas del IPN}}{%
 {\protect \APACyear {2024}}%
 }]{%
-ipn_inauguracion_citta_juarez}
+ciita_inauguracion_2024}
 \APACinsertmetastar {%
-ipn_inauguracion_citta_juarez}%
-\APACrefbtitle {Inauguran el Centro de Innovación e Integración de
-  Tecnologías Avanzadas del IPN en Ciudad Juárez.} {Inauguran el centro de
-  innovación e integración de tecnologías avanzadas del ipn en ciudad
-  juárez.}
+ciita_inauguracion_2024}%
+{\BBOQ}\APACrefatitle {Inauguración del Centro de Innovación e Integración
+  de Tecnologías Avanzadas del IPN} {Inauguración del centro de innovación e
+  integración de tecnologías avanzadas del ipn}.{\BBCQ}
 \newblock
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
-\APACaddressPublisher{}{Instituto Politécnico Nacional (IPN)}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2021&n=150}
-  \end{APACrefURL}
+
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional}}{%
-\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional}}{%
+\APACciteatitle {Inauguración del CIITA en Puebla}}{%
+\APACciteatitle {Inauguración del CIITA en Puebla}}{%
 {\protect \APACyear {2024}}%
 }]{%
-diario_cambio_citta_puebla}
+ciita_puebla_2024}
 \APACinsertmetastar {%
-diario_cambio_citta_puebla}%
-\APACrefbtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional.} {Sergio salomón inaugura en san josé
-  chiapa el ciita del instituto politécnico nacional.}
+ciita_puebla_2024}%
+{\BBOQ}\APACrefatitle {Inauguración del CIITA en Puebla} {Inauguración del
+  ciita en puebla}.{\BBCQ}
 \newblock
 \APACrefYearMonthDay{2024}{}{}.
 \newblock
-\APACaddressPublisher{}{Diario Cambio}.
+
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+(IPN)%
+}{%
+(IPN)%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+ipn2023}
+\APACinsertmetastar {%
+ipn2023}%
+\begin{APACrefauthors}%
+(IPN), I\BPBI P\BPBI N.%
+\end{APACrefauthors}%
+\unskip\
 \newblock
-\begin{APACrefURL}
-  \url{https://www.diariocambio.com.mx/2024/puebla/sergio-salomon-inaugura-en-san-jose-chiapa-el-ciita-del-instituto-politecnico-nacional-videos/}
-  \end{APACrefURL}
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Memoria de Actividades 2023: Centro de Innovación e
+  Integración de Tecnologías Avanzadas (CIITA).} {Memoria de actividades
+  2023: Centro de innovación e integración de tecnologías avanzadas
+  (ciita).}
+\newblock
+\APAChowpublished
+  {\url{https://www.ipn.mx/assets/files/secgeneral/docs/memorias/m2023/iita/ciita-chih.pdf}}.
+\newblock
+\APACrefnote{Consultado el [fecha de acceso]}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

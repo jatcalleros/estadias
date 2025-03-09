@@ -23,44 +23,47 @@ Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: referencias.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 2 entries,
+Warning--No journal in ciita_inauguracion_2024
+Warning--No journal in ciita_puebla_2024
+You've used 3 entries,
             6951 wiz_defined-function locations,
-            1287 strings with 11414 characters,
-and the built_in function-call counts, 3737 in all, are:
-= -- 478
-> -- 0
-< -- 208
-+ -- 202
-- -- 0
-* -- 251
-:= -- 758
-add.period$ -- 8
-call.type$ -- 2
-change.case$ -- 32
+            1291 strings with 11364 characters,
+and the built_in function-call counts, 4946 in all, are:
+= -- 651
+> -- 10
+< -- 256
++ -- 257
+- -- 2
+* -- 318
+:= -- 977
+add.period$ -- 11
+call.type$ -- 3
+change.case$ -- 49
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 52
-empty$ -- 177
-format.name$ -- 0
-if$ -- 709
+cite$ -- 8
+duplicate$ -- 69
+empty$ -- 201
+format.name$ -- 14
+if$ -- 937
 int.to.chr$ -- 0
-int.to.str$ -- 6
+int.to.str$ -- 9
 missing$ -- 0
-newline$ -- 37
-num.names$ -- 0
-pop$ -- 144
+newline$ -- 57
+num.names$ -- 8
+pop$ -- 102
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 10
 quote$ -- 0
-skip$ -- 167
+skip$ -- 323
 stack$ -- 0
-substring$ -- 206
-swap$ -- 28
-text.length$ -- 4
+substring$ -- 270
+swap$ -- 43
+text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 208
-warning$ -- 0
-while$ -- 4
+type$ -- 276
+warning$ -- 2
+while$ -- 9
 width$ -- 0
-write$ -- 44
+write$ -- 66
+(There were 2 warnings)
