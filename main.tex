@@ -6,23 +6,41 @@
 \usepackage[spanish]{babel}
 \usepackage{graphicx}
 \usepackage{csquotes}
-\usepackage{hyperref}
-\usepackage{apacite} % Cargado después de csquotes y babel
 \usepackage{float}
 \usepackage{microtype}            
 \usepackage{lipsum}
 
+% --- Section Formatting ---
+\usepackage{titlesec}
+\usepackage{titletoc}
+
+% Customize sections to "Capítulo"
+\titleformat{\section}
+{\normalfont\Large\bfseries\centering} % Add \centering here
+{CAPÍTULO: \thesection\ } % Add space after section number
+{0em} % No indent
+{} 
+
+% Customize table of contents
+\titlecontents{section}
+[0pt] 
+{\vspace{0.5em}} 
+{CAPÍTULO: \thecontentslabel\quad} 
+{} 
+{\hfill\contentspage}
+
+% --- Page Layout ---
 \usepackage{geometry}
 \geometry{
-    top=2.5cm,
-    bottom=2.5cm,
-    left=3.0cm,
-    right=2.5cm,
+	top=2.5cm,
+	bottom=2.5cm,
+	left=3.0cm,
+	right=2.5cm,
 }
 
 % --- Spacing and fonts ---
 \usepackage{setspace}
-\onehalfspacing % Interlineado 1.5
+\onehalfspacing
 
 % --- Header and Footer ---
 \usepackage{fancyhdr}
@@ -30,9 +48,19 @@
 \fancyhf{}
 \fancyfoot[C]{\thepage}
 
-% --- Bibliography Style ---
-\bibliographystyle{apacite} % Estilo de bibliografía APA con apacite
+\usepackage{hyperref} % Keep hyperref loaded LAST
+% --- Fix Citations ---
+\usepackage[natbibapa]{apacite} % Add natbibapa option
+\bibliographystyle{apacite}
 
+
+% --- Font Type (Times New Roman) ---
+\usepackage{mathptmx}
+\renewcommand{\familydefault}{\rmdefault}
+
+% --- Double Space After Paragraph ---
+\usepackage{parskip}
+\setlength{\parskip}{\baselineskip}
 % --- Document begins ---
 \begin{document}
 
@@ -80,6 +108,22 @@
 \include{Body/Intro/Justificacion}
 
 \include{Body/Intro/Objetivos_y_metas}
+
+%--------------------------------------------------%
+% Marco de Referencia %
+%--------------------------------------------------%
+\include{Body/marco}
+
+%--------------------------------------------------%
+% Desarrollo%
+%--------------------------------------------------%
+\include{Body/Desarrollo}
+
+%--------------------------------------------------%
+% Resultdado y Recomendaciones %
+%--------------------------------------------------%
+\include{Body/resultados_y_recomendaciones}
+
 
 %--------------------------------------------------%
 % Anexos %

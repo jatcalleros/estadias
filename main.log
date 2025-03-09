@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.2.9)  8 MAR 2025 20:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.2.9)  9 MAR 2025 15:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -102,14 +102,117 @@ Package csquotes Info: ... configuration file loaded successfully.
 (/usr/share/texlive/texmf-dist/tex/latex/csquotes/csquotes.cfg
 File: csquotes.cfg 
 ))
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count269
+\float@exts=\toks21
+\float@box=\box51
+\@float@everytoks=\toks22
+\@floatcapt=\box52
+)
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks23
+\MT@tempbox=\box53
+\MT@count=\count270
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks24
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen144
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count271
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip50
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count272
+\l__pdf_internal_box=\box54
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count273
+\l__lipsum_a_int=\count274
+\l__lipsum_b_int=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip51
+\aftertitleunit=\skip52
+\ttl@plus=\dimen145
+\ttl@minus=\dimen146
+\ttl@toksa=\toks25
+\titlewidth=\dimen147
+\titlewidthlast=\dimen148
+\titlewidthfirst=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titletoc.sty
+Package: titletoc 2021/07/05 v2.14 TOC entries
+\ttl@leftsep=\dimen150
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
@@ -152,11 +255,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count269
+\c@section@level=\count279
 )
-\@linkdim=\dimen144
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
+\@linkdim=\dimen159
+\Hy@linkcounter=\count280
+\Hy@pagecounter=\count281
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
@@ -169,7 +272,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+\Hy@SavedSpaceFactor=\count282
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
@@ -183,14 +286,14 @@ Package hyperref Info: Plain pages OFF on input line 4192.
 Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4425.
-\c@Hy@tempcnt=\count273
+\c@Hy@tempcnt=\count283
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen145
+\XeTeXLinkMargin=\dimen160
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -199,9 +302,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
-\Field@Width=\dimen146
-\Fld@charsize=\dimen147
+\Fld@menulength=\count284
+\Field@Width=\dimen161
+\Fld@charsize=\dimen162
 Package hyperref Info: Hyper figures OFF on input line 6042.
 Package hyperref Info: Link nesting OFF on input line 6047.
 Package hyperref Info: Hyper index ON on input line 6050.
@@ -214,9 +317,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
+\Hy@abspage=\count285
+\c@Item=\count286
+\c@Hfootnote=\count287
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -228,8 +331,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count278
-\c@bookmark@seq@number=\count279
+\Fld@listcount=\count288
+\c@bookmark@seq@number=\count289
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
@@ -240,109 +343,75 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
-\Hy@SectionHShift=\skip50
+\Hy@SectionHShift=\skip62
 )
 (/usr/share/texlive/texmf-dist/tex/latex/apacite/apacite.sty
 Package: apacite 2013/07/21 v6.03 APA citation
-\c@BibCnt=\count280
-\bibleftmargin=\skip51
-\bibindent=\skip52
-\bibparsep=\skip53
-\bibitemsep=\skip54
-\biblabelsep=\skip55
+\c@BibCnt=\count290
+\bibleftmargin=\skip63
+\bibindent=\skip64
+\bibparsep=\skip65
+\bibitemsep=\skip66
+\biblabelsep=\skip67
 )
-(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count281
-\float@exts=\toks21
-\float@box=\box51
-\@float@everytoks=\toks22
-\@floatcapt=\box52
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip68
+\bibsep=\skip69
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count291
 )
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
-Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
-\MT@toks=\toks23
-\MT@tempbox=\box53
-\MT@count=\count282
-LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
-LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks24
-LaTeX Info: Redefining \rightprotrusion on input line 1078.
-LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen148
-LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count283
+LaTeX Info: Redefining \BBA on input line 54.
 
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
-File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
-
-LaTeX Info: Redefining \lsstyle on input line 902.
-LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip56
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
 )
-Package microtype Info: Loading configuration file microtype.cfg.
-
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
-File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
-))
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
-(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
-
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count284
-\l__pdf_internal_box=\box54
-))
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
-)
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count285
-\l__lipsum_a_int=\count286
-\l__lipsum_b_int=\count287
-
-(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
-
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
-Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
-)
-\Gm@cnth=\count288
-\Gm@cntv=\count289
-\c@Gm@tempcnt=\count290
-\Gm@bindingoffset=\dimen149
-\Gm@wd@mp=\dimen150
-\Gm@odd@mp=\dimen151
-\Gm@even@mp=\dimen152
-\Gm@layoutwidth=\dimen153
-\Gm@layoutheight=\dimen154
-\Gm@layouthoffset=\dimen155
-\Gm@layoutvoffset=\dimen156
-\Gm@dimlist=\toks25
-)
-(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2022/12/04 v6.7b set line spacing
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-
-\f@nch@headwidth=\skip57
-\f@nch@O@elh=\skip58
-\f@nch@O@erh=\skip59
-\f@nch@O@olh=\skip60
-\f@nch@O@orh=\skip61
-\f@nch@O@elf=\skip62
-\f@nch@O@erf=\skip63
-\f@nch@O@olf=\skip64
-\f@nch@O@orf=\skip65
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'spanish'.
- (./main.aux
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 65
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (./main.aux
 (./titlepage/titlepage.aux)
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
@@ -350,43 +419,44 @@ LaTeX Info: Redefining \% on input line 24.
 (./Body/agradecimientos.aux) (./Body/Resumen.aux) (./Body/Intro/Intro.aux)
 (./Body/Intro/Antecedentes.aux) (./Body/Intro/Definicion_del_problema.aux)
 (./Body/Intro/Justificacion.aux) (./Body/Intro/Objetivos_y_metas.aux)
-(./Anexos.aux))
+(./Body/marco.aux) (./Body/Desarrollo.aux)
+(./Body/resultados_y_recomendaciones.aux) (./Anexos.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Info: Redefining \. on input line 37.
-LaTeX Info: Redefining \% on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 65.
+LaTeX Font Info:    ... okay on input line 65.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen157
-\scratchbox=\box55
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen158
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks27
+\scratchcounter=\count292
+\scratchdimen=\dimen163
+\scratchbox=\box56
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen164
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks28
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -396,41 +466,25 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 37.
-
-(./main.out) (./main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
-
-\c@maskedRefs=\count297
-
-(/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
-File: spanish.apc 2013/07/21 v6.03 apacite language file
-LaTeX Info: Redefining \BPBI on input line 138.
-LaTeX Info: Redefining \BHBI on input line 139.
-)
-LaTeX Info: Redefining \microtypecontext on input line 37.
-Package microtype Info: Applying patch `item' on input line 37.
-Package microtype Info: Applying patch `toc' on input line 37.
-Package microtype Info: Applying patch `eqnum' on input line 37.
-
-
-Package microtype Warning: Unable to apply patch `footnote' on input line 37.
-
-Package microtype Info: Applying patch `verbatim' on input line 37.
+LaTeX Info: Redefining \microtypecontext on input line 65.
+Package microtype Info: Applying patch `item' on input line 65.
+Package microtype Info: Applying patch `toc' on input line 65.
+Package microtype Info: Applying patch `eqnum' on input line 65.
+Package microtype Info: Applying patch `footnote' on input line 65.
+Package microtype Info: Applying patch `verbatim' on input line 65.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 37.
+LaTeX Info: Redefining \showhyphens on input line 65.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
-(RS)
+
+(/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -466,56 +520,77 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+Package hyperref Info: Link coloring OFF on input line 65.
+(./main.out) (./main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\c@maskedRefs=\count298
+
+(/usr/share/texlive/texmf-dist/tex/latex/apacite/spanish.apc
+File: spanish.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 138.
+LaTeX Info: Redefining \BHBI on input line 139.
+)
+\big@size=\dimen165
+
+Couldn't patch \ttl@straight@ii
+Couldn't patch \ttl@straight@ii
 \openout2 = `titlepage/titlepage.aux'.
 
 (./titlepage/titlepage.tex
-
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <28> not available
-(Font)              size <29.86> substituted on input line 8.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <28> not available
-(Font)              size <29.86> substituted on input line 8.
-
-<Images/ESCUDO_UTCJ2014_02.jpg, id=60, 1104.125pt x 1122.1925pt>
+<Images/ESCUDO_UTCJ2014_02.jpg, id=56, 1104.125pt x 1122.1925pt>
 File: Images/ESCUDO_UTCJ2014_02.jpg Graphic file (type jpg)
 <use Images/ESCUDO_UTCJ2014_02.jpg>
 Package pdftex.def Info: Images/ESCUDO_UTCJ2014_02.jpg  used on input line 12.
 (pdftex.def)             Requested size: 170.71642pt x 170.70174pt.
-
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 20.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 24.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 24.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/m/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 32.
-
-
-LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <18> not available
-(Font)              size <17.28> substituted on input line 32.
-
-[1
+ [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
-st/fonts/enc/dvips/cm-super/cm-super-t1.enc} <./Images/ESCUDO_UTCJ2014_02.jpg>]
-) (./main.toc
+st/fonts/enc/dvips/base/8r.enc} <./Images/ESCUDO_UTCJ2014_02.jpg>]) (./main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -525,7 +600,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50 \newpage
+l.78 \newpage
               [1
 
 
@@ -563,32 +638,59 @@ l.50 \newpage
 
 
 
-] [6]
+]
 \openout2 = `Body/Intro/Definicion_del_problema.aux'.
 
 
-(./Body/Intro/Definicion_del_problema.tex [7
+(./Body/Intro/Definicion_del_problema.tex) [6
+
+
+
+]
+\openout2 = `Body/Intro/Justificacion.aux'.
+
+ (./Body/Intro/Justificacion.tex
+[7
 
 
 
 ]) [8]
-\openout2 = `Body/Intro/Justificacion.aux'.
+\openout2 = `Body/Intro/Objetivos_y_metas.aux'.
 
+ (./Body/Intro/Objetivos_y_metas.tex
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+7.
 
-(./Body/Intro/Justificacion.tex [9
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [9
 
 
 
 ]) [10]
-\openout2 = `Body/Intro/Objetivos_y_metas.aux'.
-
- (./Body/Intro/Objetivos_y_metas.tex
-[11
+\openout2 = `Body/marco.aux'.
 
 
+(./Body/marco.tex [11
 
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
-[12]
+
+
+] [12]) [13]
+\openout2 = `Body/Desarrollo.aux'.
+
+ (./Body/Desarrollo.tex [14
+
+
+
+] [15] [16])
+[17]
+\openout2 = `Body/resultados_y_recomendaciones.aux'.
+
+ (./Body/resultados_y_recomendaciones.tex) [18
+
+
+
+]
 \openout2 = `Anexos.aux'.
 
  (./Anexos.tex) (./main.bbl
@@ -603,14 +705,14 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 1014) in paragraph at lines 67--77
-[]\T1/cmr/m/it/12 (+20) Inauguran el cen-tro de in-no-va-ción e in-te-gra-ción 
+Underfull \hbox (badness 3407) in paragraph at lines 67--77
+[]\T1/ptm/m/it/12 (+20) Inauguran el cen-tro de in-no-va-ción e in-te-gra-ción 
 de tec-no-lo-gías avan-za-das del
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 67--77
-\T1/cmr/m/it/12 (+20) ipn en ciu-dad juá-rez.  \T1/cmr/m/n/12 (+20) (2024).  In
+Underfull \hbox (badness 5847) in paragraph at lines 67--77
+\T1/ptm/m/it/12 (+20) ipn en ciu-dad juá-rez.  \T1/ptm/m/n/12 (+20) (2024).  In
 s-ti-tu-to Po-li-téc-ni-co Na-cio-nal (IPN).
  []
 
@@ -620,49 +722,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--128
 [] -jose [] -chiapa [] -el [] -ciita []
  []
 
-) [13
+) [19
 
 
 
 
 
-] (./main.aux (./titlepage/titlepage.aux)
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
+(./main.aux (./titlepage/titlepage.aux)
 LaTeX Info: Redefining \. on input line 24.
 LaTeX Info: Redefining \% on input line 24.
+ (./Body/oficio_de_autoricacion.aux)
+(./Body/agradecimientos.aux) (./Body/Resumen.aux) (./Body/Intro/Intro.aux)
+(./Body/Intro/Antecedentes.aux) (./Body/Intro/Definicion_del_problema.aux)
+(./Body/Intro/Justificacion.aux) (./Body/Intro/Objetivos_y_metas.aux)
+(./Body/marco.aux) (./Body/Desarrollo.aux)
+(./Body/resultados_y_recomendaciones.aux) (./Anexos.aux))
 
-(./Body/oficio_de_autoricacion.aux) (./Body/agradecimientos.aux)
-(./Body/Resumen.aux) (./Body/Intro/Intro.aux) (./Body/Intro/Antecedentes.aux)
-(./Body/Intro/Definicion_del_problema.aux) (./Body/Intro/Justificacion.aux)
-(./Body/Intro/Objetivos_y_metas.aux) (./Anexos.aux))
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
 
-LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 1.86pt have occurred.
-
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4687B1486838952C218EE07F5147257A;2071.
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: CA030BF576B03D15A1FC8E0B2A4A8C6B;1998
+(rerunfilecheck)             After:  2D0146B020654E8153B99C202452A9BA;3429.
  ) 
 Here is how much of TeX's memory you used:
- 14674 strings out of 476041
- 244729 string characters out of 5793175
- 1859388 words of memory out of 6000000
- 34696 multiletter control sequences out of 15000+600000
- 529656 words of font info for 125 fonts, out of 8000000 for 9000
+ 15849 strings out of 476041
+ 263088 string characters out of 5793175
+ 1858388 words of memory out of 6000000
+ 35668 multiletter control sequences out of 15000+600000
+ 571932 words of font info for 241 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 75i,12n,77p,1001b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/cm-super/sfbx2074.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/cm-super/sfrm1728.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-s
-uper/sfti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sf
-tt1200.pfb>
-Output written on main.pdf (14 pages, 528232 bytes).
+ 75i,11n,77p,1133b,659s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
+s/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (20 pages, 421393 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 214 compressed objects within 3 object streams
- 34 named destinations out of 1000 (max. 500000)
- 33398 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 235 PDF objects out of 1000 (max. 8388607)
+ 198 compressed objects within 2 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 71790 words of extra memory for PDF output out of 74296 (max. 10000000)
 
