@@ -14,12 +14,28 @@
 \usepackage{titlesec}
 \usepackage{titletoc}
 
-% Customize sections to "Capítulo"
+\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}  % Subsections as 1.1, 1.2...
+\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}  % Subsubsections as 1.1.1, 1.1.2...
+% Center-align subsections
+\titleformat{\subsection}
+{\normalfont\large\bfseries\centering}{\thesubsection}{1em}{}
+
+
+% Left-align subsubsections (bold, normal font)
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries\raggedright}{\thesubsubsection}{1em}{}
+
+% Numeración romana para capítulos
+\renewcommand{\thesection}{\Roman{section}}
+
+
+
+% Formato de sección personalizado
 \titleformat{\section}
-{\normalfont\Large\bfseries\centering} % Add \centering here
-{CAPÍTULO: \thesection\ } % Add space after section number
-{0em} % No indent
-{} 
+{\normalfont\Large\bfseries\centering}
+{CAPÍTULO \thesection} % Eliminamos los dos puntos
+{0em}
+{}
 
 % Customize table of contents
 \titlecontents{section}

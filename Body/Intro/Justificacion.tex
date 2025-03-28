@@ -1,5 +1,5 @@
 \subsection{Justificación}
-Como único centro del Instituto Politécnico Nacional (IPN) especializado en integración tecnológica en la frontera norte, el Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA) tiene una responsabilidad institucional única en el desarrollo industrial y tecnológico de Ciudad Juárez. Un colapso operativo del CIITA no solo afectaría sus actividades internas, sino que tendría un impacto significativo en la región, incluyendo:
+Como único centro del Instituto Politécnico Nacional (IPN) especializado en integración tecnológica en la frontera norte, el Centro de Innovación e Integración de Tecnologías Avanzadas  tiene una responsabilidad institucional única en el desarrollo industrial y tecnológico de Ciudad Juárez. Un colapso operativo del CIITA no solo afectaría sus actividades internas, sino que tendría un impacto significativo en la región, incluyendo:
 
 \subsubsection{Impacto Institucional} % Capital humano, I+D, económico
 
@@ -17,18 +17,47 @@ La inversión inicial requerida para modernizar la infraestructura del CIITA est
 
 En resumen, la modernización de la infraestructura tecnológica del CIITA no solo es necesaria para garantizar su operación continua, sino también para mantener su impacto en la formación de capital humano, la investigación y desarrollo, y la competitividad económica de la región. La inversión requerida es estratégica y justificada considerando los beneficios a largo plazo para el centro y la comunidad a la que sirve.
 
-\subsubsection{Cumplimiento Normativo} % LFPDPPP, ISO 27001
+\subsection{Cumplimiento Normativo}
+El Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA), como entidad pública adscrita al Instituto Politécnico Nacional (IPN), está sujeto a la \textbf{Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados (LGPDPSO)}. Este marco legal obliga a las instituciones públicas a implementar medidas técnicas y organizativas para garantizar la seguridad de los datos personales, incluyendo:
 
+\begin{itemize}
+	\item \textbf{Protección de información sensible} de estudiantes, personal administrativo y socios industriales
+	\item \textbf{Notificación oportuna} de brechas de seguridad según lo establecido en el Artículo 64 de la LGPDPSO
+	\item \textbf{Gestión documental segura} para comunicaciones oficiales y proyectos de I+D
+\end{itemize}
 
-\textbf{ Ley Federal de Protección de Datos Personales en Posesión de Particulares (LFPDPPP)}
+\subsubsection{Implicaciones Legales}
+El incumplimiento de la LGPDPSO puede derivar en:
+\begin{enumerate}
+	\item Sanciones administrativas equivalentes al 10\% de los ingresos anuales del centro (Art. 69)
+	\item Suspensión temporal de actividades que involucren tratamiento de datos personales
+	\item Obligaciones de reparación integral por daños morales o materiales (Art. 72)
+\end{enumerate}
 
-El cumplimiento de la Ley Federal de Protección de Datos Personales en Posesión de Particulares (LFPDPPP) es fundamental para garantizar la seguridad y privacidad de la información manejada por el Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA). Esta ley establece los lineamientos necesarios para proteger los datos personales de los usuarios, clientes y colaboradores, lo que es especialmente crítico en un entorno tecnológico como el del CIITA, donde se maneja información sensible \cite{lfpdppp}.
+\subsubsection{Riesgo Operativo}
+La falta de segmentación de red y filtrado de tráfico observada contradice el Artículo 19 de la LGPDPSO, que exige ‘medidas de seguridad proporcionales a los riesgos’. Por ejemplo, la exposición de datos de proyectos industriales a dispositivos en redes no confiables incrementa el riesgo de violaciones a la privacidad. que exige "medidas de seguridad proporcionales a los riesgos identificados". Esto se agrava por:
 
-\textbf{Implicaciones Financieras}
+\begin{itemize}
+	\item Acceso no restringido a datos de proyectos industriales estratégicos
+	\item Ausencia de registros de auditoría para actividades críticas
+	\item Sistemas operativos sin soporte técnico en equipos administrativos
+\end{itemize}
 
-El incumplimiento de la LFPDPPP puede resultar en sanciones económicas significativas. Las multas por violaciones a esta ley pueden alcanzar hasta 320,000 Unidades de Medida y Actualización (UMA), lo que equivale a millones de pesos, dependiendo de la gravedad de la infracción \cite{lfpdppp}. Además, las sanciones no se limitan a multas económicas; también pueden incluir la suspensión de actividades o la revocación de licencias, lo que afectaría directamente la operación del CIITA.
+\subsection{Metas Cuantificables}
+\subsubsection{Análisis de Red}
+\begin{itemize}
+	\item Proponer 3 políticas de seguridad basadas en mejores prácticas de la industria, como
+	\begin{itemize}
+		\item \textbf{Creación de VLANs}: Para aislar tráfico de invitados, administrativo y de laboratorios.
+		\item \textbf{Implementación de reglas de firewall}: Para bloquear accesos a dominios de alto riesgo.
+		\item \textbf{Establecimiento de políticas de acceso basadas en roles}: Ejemplo: estudiantes vs. personal técnico.
+	\end{itemize}
+\end{itemize}
 
-\textbf{Riesgo Reputacional}
+\subsubsection{Cumplimiento Normativo}
+\begin{itemize}
+	\item Entregar guía práctica con 10 pasos para implementar el Aviso de Privacidad Integral (Art. 17 LGPDPSO)
+	\item Identificar 5 requisitos no cumplidos del Capítulo III de la LGPDPSO y sugerir soluciones técnicas
+\end{itemize}
 
-Un incumplimiento de la LFPDPPP no solo tiene implicaciones financieras, sino también reputacionales. La pérdida de confianza por parte de los usuarios, clientes y socios estratégicos puede resultar en una disminución de la colaboración y el financiamiento, lo que a su vez afectaría la sostenibilidad del centro. La reputación del CIITA como un centro de innovación y desarrollo tecnológico es fundamental para mantener las colaboraciones existentes y atraer nuevas oportunidades de negocio.
 

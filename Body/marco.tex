@@ -3,26 +3,17 @@
 
 El \textbf{Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA)} enfrenta desafíos críticos relacionados con su infraestructura tecnológica y cumplimiento normativo. Para contextualizar estos problemas, se definen los siguientes términos técnicos y normativos:
 
-\subsection*{Definiciones Técnicas y Normativas}
+\subsection{Definiciones Técnicas y Normativas}
 \begin{itemize}
 	\item \textbf{ISO 9001}: Norma internacional de gestión de calidad que establece requisitos para garantizar la eficiencia operativa y satisfacción del cliente. El CIITA debe cumplirla para mantener certificaciones que validen sus procesos.
-	
 	\item \textbf{ISO 27000}: Familia de normas sobre seguridad de la información. Su incumplimiento en el CIITA expone datos sensibles a riesgos de ciberseguridad.
-	
 	\item \textbf{Segmentación de red}: División de una red en subredes (VLANs) para aislar tráfico y reducir riesgos. La falta de segmentación en el CIITA permite accesos no autorizados.
-	
 	\item \textbf{Firewall}: Dispositivo que filtra tráfico malicioso. Su configuración inadecuada en el CIITA deja la red expuesta a intrusiones.
-	
-	\item \textbf{LFPDPPP}: Ley Federal de Protección de Datos Personales en Posesión de Particulares. Su incumplimiento puede generar multas de hasta 320,000 UMA y daño reputacional.
-	
-	\item \textbf{NOM-151}: Norma Oficial Mexicana que regula la conservación de documentos electrónicos. El CIITA debe alinear sus políticas de seguridad con esta norma.
-	
+	\item \textbf{LGPDPSO}: Ley que regula el tratamiento de datos personales por instituciones públicas en México. Establece los principios de licitud, consentimiento, calidad, finalidad, lealtad, proporcionalidad y responsabilidad en el manejo de datos personales. Además, garantiza los derechos ARCO (Acceso, Rectificación, Cancelación y Oposición) de los titulares de los datos y exige la implementación de medidas de seguridad técnicas y organizativas para proteger la información \cite{LGPDPSO}.
+	\item \textbf{Ley de Firma Electrónica Avanzada}: Garantiza la autenticidad de documentos electrónicos y comunicaciones oficiales \cite{LFEA}.
 	\item \textbf{BIOS}: Sistema básico de entrada/salida que controla el hardware. Equipos con BIOS sin parches en el CIITA son vulnerables a exploits.
-	
 	\item \textbf{Firmware}: Software integrado en dispositivos de red (ej: routers). Versiones desactualizadas en el CIITA presentan vulnerabilidades críticas.
-	
 	\item \textbf{Software sin licencia}: Programas no autorizados que violan derechos de propiedad intelectual y aumentan riesgos legales.
-	
 	\item \textbf{Parches de seguridad}: Actualizaciones para corregir vulnerabilidades. La falta de aplicación en el CIITA incumple estándares de ciberseguridad.
 \end{itemize}
 
@@ -31,7 +22,13 @@ Como único centro del \textbf{IPN} especializado en integración tecnológica e
 \begin{itemize}
 	\item Capacita a \textbf{350+ estudiantes anuales} en automatización industrial.
 	\item Colabora con \textbf{15+ maquiladoras} en proyectos de I+D en sectores aeroespacial y médico.
-	\item Requiere \textbf{2.5 millones de MXN} para modernizar infraestructura (18\% del presupuesto anual).
+	\item Requiere \textbf{2.5 millones de MXN} para modernizar infraestructura (18\% del presupuesto anual).\cite{ipn2023}
+\end{itemize}
+
+El CIITA debe cumplir adicionalmente con:
+\begin{itemize}
+	\item \textbf{Ley de Firma Electrónica Avanzada}: Para validar integridad de comunicaciones oficiales
+	\item \textbf{Ley General de Transparencia}: En lo relativo a protección de datos públicos no sensibles
 \end{itemize}
 
 \subsection*{Riesgos Técnicos Identificados}
@@ -46,5 +43,14 @@ La infraestructura actual del CIITA contradice requisitos de:
 \begin{itemize}
 	\item \textbf{ISO 9001}: Falta de controles para garantizar calidad operativa.
 	\item \textbf{ISO 27000}: Configuraciones de red inseguras y datos expuestos.
-	\item \textbf{NOM-151}: Incapacidad para garantizar integridad de documentos electrónicos.
+	\item\textbf{Ley de Firma Electrónica Avanzada}: Garantiza la autenticidad de documentos electrónicos y comunicaciones oficiales \cite{LFEA}.
+\end{itemize}
+
+\subsection{Metodología de Análisis}
+El diagnóstico se realizó mediante:
+\begin{itemize}
+	\item \textbf{Observación de tráfico}: Identificación de dispositivos no autorizados en subredes críticas mediante herramientas de escaneo pasivo (ej: Wireshark).
+	\item \textbf{Pruebas de conectividad}: Verificación de políticas de firewall mediante intentos de acceso a sitios web comúnmente bloqueados (ej: redes P2P, contenido malicioso).
+	\item \textbf{Revisión documental}: Análisis de políticas de seguridad existentes proporcionadas por el personal del CIITA.
+	\item \textbf{Entrevistas}: Consultas al personal técnico para validar hallazgos y contextualizar limitaciones operativas.
 \end{itemize}

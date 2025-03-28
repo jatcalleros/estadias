@@ -5,24 +5,24 @@ de Diputados%
 }{%
 de Diputados%
 }{%
-{\protect \APACyear {2010}}%
+{\protect \APACyear {2021}}%
 }]{%
-lfpdppp}
+LGPDPSO}
 \APACinsertmetastar {%
-lfpdppp}%
+LGPDPSO}%
 \begin{APACrefauthors}%
 de Diputados, C.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2010}{}{}.
+\APACrefYearMonthDay{2021}{}{}.
 \newblock
-\APACrefbtitle {Ley Federal de Protección de Datos Personales en Posesión de
-  Particulares.} {Ley federal de protección de datos personales en posesión
-  de particulares.}
+\APACrefbtitle {Ley General de Protección de Datos Personales en Posesión de
+  Sujetos Obligados.} {Ley general de protección de datos personales en
+  posesión de sujetos obligados.}
 \newblock
 \begin{APACrefURL}
-  \url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPDPPP.pdf}
+  \url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPSO.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -31,23 +31,22 @@ de Economía%
 }{%
 de Economía%
 }{%
-{\protect \APACyear {2016}}%
+{\protect \APACyear {2022}}%
 }]{%
-nom151}
+LFEA}
 \APACinsertmetastar {%
-nom151}%
+LFEA}%
 \begin{APACrefauthors}%
 de Economía, S.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2016}{}{}.
+\APACrefYearMonthDay{2022}{}{}.
 \newblock
-\APACrefbtitle {NOM-151-SCFI-2016 - Seguridad de la Información.}
-  {Nom-151-scfi-2016 - seguridad de la información.}
+\APACrefbtitle {Ley de Firma Electrónica Avanzada.} {Ley de firma electrónica
+  avanzada.}
 \newblock
-\begin{APACrefURL}
-  \url{https://www.dof.gob.mx/nota_detalle.php?codigo=5464453&fecha=25/07/2016}
+\begin{APACrefURL} \url{https://www.dof.gob.mx/2022/SEECO/LFEA.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -72,6 +71,30 @@ ipn_inauguracion_citta_juarez}%
 \newblock
 \begin{APACrefURL}
   \url{https://www.ipn.mx/imageninstitucional/comunicados/ver-comunicado.html?y=2021&n=150}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Instituto Politécnico Nacional}%
+}{%
+{Instituto Politécnico Nacional}%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+ipn_organizacion}
+\APACinsertmetastar {%
+ipn_organizacion}%
+\begin{APACrefauthors}%
+{Instituto Politécnico Nacional}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {Organización y estructura.} {Organización y estructura.}
+\newblock
+\begin{APACrefURL}
+  [{2023-11-15}]\url{https://www.ipn.mx/comunidad/organizacion/organizacion-y-estructura.html}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -101,29 +124,6 @@ ipn2023}%
   {\url{https://www.ipn.mx/assets/files/secgeneral/docs/memorias/m2023/iita/ciita-chih.pdf}}.
 \newblock
 \APACrefnote{Consultado el [fecha de acceso]}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional}}{%
-\APACcitebtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional}}{%
-{\protect \APACyear {2024}}%
-}]{%
-diario_cambio_citta_puebla}
-\APACinsertmetastar {%
-diario_cambio_citta_puebla}%
-\APACrefbtitle {Sergio Salomón inaugura en San José Chiapa el CIITA del
-  Instituto Politécnico Nacional.} {Sergio salomón inaugura en san josé
-  chiapa el ciita del instituto politécnico nacional.}
-\newblock
-\APACrefYearMonthDay{2024}{}{}.
-\newblock
-\APACaddressPublisher{}{Diario Cambio}.
-\newblock
-\begin{APACrefURL}
-  \url{https://www.diariocambio.com.mx/2024/puebla/sergio-salomon-inaugura-en-san-jose-chiapa-el-ciita-del-instituto-politecnico-nacional-videos/}
-  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
