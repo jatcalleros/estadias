@@ -32,45 +32,45 @@ I'm skipping whatever remains of this entry
 Warning--entry type for "ipn_organizacion" isn't style-file defined
 --line 159 of file referencias.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 5 entries,
+You've used 7 entries,
             6951 wiz_defined-function locations,
-            1308 strings with 11890 characters,
-and the built_in function-call counts, 8604 in all, are:
-= -- 1118
-> -- 40
-< -- 421
-+ -- 402
-- -- 10
-* -- 514
-:= -- 1626
-add.period$ -- 21
-call.type$ -- 5
-change.case$ -- 84
+            1315 strings with 12132 characters,
+and the built_in function-call counts, 12010 in all, are:
+= -- 1564
+> -- 65
+< -- 576
++ -- 546
+- -- 17
+* -- 727
+:= -- 2228
+add.period$ -- 31
+call.type$ -- 7
+change.case$ -- 134
 chr.to.int$ -- 0
-cite$ -- 10
-duplicate$ -- 152
-empty$ -- 359
-format.name$ -- 56
-if$ -- 1672
+cite$ -- 14
+duplicate$ -- 224
+empty$ -- 499
+format.name$ -- 94
+if$ -- 2354
 int.to.chr$ -- 0
-int.to.str$ -- 15
+int.to.str$ -- 25
 missing$ -- 0
-newline$ -- 110
-num.names$ -- 32
-pop$ -- 300
+newline$ -- 161
+num.names$ -- 48
+pop$ -- 441
 preamble$ -- 1
-purify$ -- 19
+purify$ -- 27
 quote$ -- 0
-skip$ -- 486
+skip$ -- 647
 stack$ -- 0
-substring$ -- 427
-swap$ -- 73
-text.length$ -- 11
+substring$ -- 585
+swap$ -- 108
+text.length$ -- 16
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 496
+type$ -- 656
 warning$ -- 0
-while$ -- 22
+while$ -- 34
 width$ -- 0
-write$ -- 121
+write$ -- 180
 (There was 1 error message)

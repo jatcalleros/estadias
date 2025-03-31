@@ -6,7 +6,34 @@ de Diputados%
 de Diputados%
 }{%
 {\protect \APACyear {2021}}%
-}]{%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+lgbdpsopdf}
+\APACinsertmetastar {%
+lgbdpsopdf}%
+\begin{APACrefauthors}%
+de Diputados, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021{\protect \BCnt {1}}}{}{}.
+\newblock
+\APACrefbtitle {Ley General de Protección de Datos Personales en Posesión de
+  Sujetos Obligados.} {Ley general de protección de datos personales en
+  posesión de sujetos obligados.}
+\newblock
+\APAChowpublished
+  {\url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf}}.
+\newblock
+\APACrefnote{Consultado: 2024-05-20}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+de Diputados%
+}{%
+de Diputados%
+}{%
+{\protect \APACyear {2021}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
 LGPDPSO}
 \APACinsertmetastar {%
 LGPDPSO}%
@@ -15,7 +42,7 @@ de Diputados, C.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2021}{}{}.
+\APACrefYearMonthDay{2021{\protect \BCnt {2}}}{}{}.
 \newblock
 \APACrefbtitle {Ley General de Protección de Datos Personales en Posesión de
   Sujetos Obligados.} {Ley general de protección de datos personales en
@@ -124,6 +151,35 @@ ipn2023}%
   {\url{https://www.ipn.mx/assets/files/secgeneral/docs/memorias/m2023/iita/ciita-chih.pdf}}.
 \newblock
 \APACrefnote{Consultado el [fecha de acceso]}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+of Standards%
+\ \BBA {} Technology%
+}{%
+of Standards%
+\ \BBA {} Technology%
+}{%
+{\protect \APACyear {2023}}%
+}]{%
+nist2023}
+\APACinsertmetastar {%
+nist2023}%
+\begin{APACrefauthors}%
+of Standards, N\BPBI I.%
+\BCBT {}\ \BBA {} Technology.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2023}{}{}.
+\newblock
+\APACrefbtitle {NIST Cybersecurity Framework 2.0.} {Nist cybersecurity
+  framework 2.0.}
+\newblock
+\APAChowpublished
+  {\url{https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf}}.
+\newblock
+\APACrefnote{Consultado: 2024-05-20}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

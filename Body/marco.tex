@@ -1,7 +1,45 @@
 
 \section{}
 \setcounter{subsection}{1}
-\subsection{Marco de referencia}
+\subsection{Marco de Referencia}
+\subsubsection{Base Legal-Técnica}
+El diagnóstico de seguridad se fundamenta en dos marcos normativos clave:
+
+\begin{itemize}
+	\item \textbf{LGPDPSO (Art. 19-22)}: Establece medidas técnicas obligatorias para protección de datos personales en instituciones públicas \cite{lgbdpsopdf}
+	\item \textbf{NIST CSF 2.0}: Marco de ciberseguridad con funciones básicas para gestión de riesgos tecnológicos \cite{nist2023}
+\end{itemize}
+
+\subsubsection{Modelo de Evaluación NIST CSF 2.0}
+Aplicación práctica del marco mediante mapeo de controles:
+
+\begin{table}[h]
+	\centering
+	\caption{Correlación NIST CSF 2.0 - Hallazgos en CIITA}
+	\begin{tabular}{|l|l|l|}
+		\hline
+		\textbf{Función NIST} & \textbf{Requerimiento} & \textbf{Estado en CIITA} \\ \hline
+		Identificar & Inventario de activos & Parcial (70\% equipos catalogados) \\ 
+		Proteger & Segmentación de red & No implementada \\ 
+		Detectar & Monitoreo continuo & Logs no centralizados \\ 
+		Responder & Plan de incidentes & Protocolo básico existente \\ 
+		Recuperar & Backups automatizados & Ausentes \\ \hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{Requisitos Técnicos de LGPDPSO}
+Principales obligaciones técnicas según el Artículo 19:
+
+\begin{enumerate}
+	\item Implementar controles de acceso basados en roles (RBAC)
+	\item Cifrar datos personales en reposo y tránsito
+	\item Mantener registros de auditoría por 12 meses
+	\item Notificar brechas en \textless72 horas
+\end{enumerate}
+
+La infraestructura actual del CIITA incumple los puntos 1 y 4 según el análisis realizado.
+
+
 
 El \textbf{Centro de Innovación e Integración de Tecnologías Avanzadas (CIITA)} enfrenta desafíos críticos relacionados con su infraestructura tecnológica y cumplimiento normativo. Para contextualizar estos problemas, se definen los siguientes términos técnicos y normativos:
 
