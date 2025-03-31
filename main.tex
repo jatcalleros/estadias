@@ -14,8 +14,8 @@
 \usepackage{titlesec}
 \usepackage{titletoc}
 
-\renewcommand{\thesubsection}{\arabic{section}.\arabic{subsection}}  % Subsections as 1.1, 1.2...
-\renewcommand{\thesubsubsection}{\arabic{section}.\arabic{subsection}.\arabic{subsubsection}}  % Subsubsections as 1.1.1, 1.1.2...
+\renewcommand{\thesubsection}{\arabic{subsection}} % New (1, 2)
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
 % Center-align subsections
 \titleformat{\subsection}
 {\normalfont\large\bfseries\centering}{\thesubsection}{1em}{}
@@ -28,7 +28,9 @@
 % Numeración romana para capítulos
 \renewcommand{\thesection}{\Roman{section}}
 
-
+\newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
 
 % Formato de sección personalizado
 \titleformat{\section}
@@ -125,9 +127,6 @@
 
 \include{Body/Intro/Objetivos_y_metas}
 
-%--------------------------------------------------%
-% Marco de Referencia %
-%--------------------------------------------------%
 \include{Body/marco}
 
 %--------------------------------------------------%
