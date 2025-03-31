@@ -15,21 +15,20 @@
 \contentsline {subsubsection}{\numberline {2.1}Base Legal-Técnica}{10}{subsubsection.2.2.1}%
 \contentsline {subsubsection}{\numberline {2.2}Modelo de Evaluación NIST CSF 2.0}{10}{subsubsection.2.2.2}%
 \contentsline {subsubsection}{\numberline {2.3}Requisitos Técnicos de LGPDPSO}{10}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.4}Definiciones Técnicas y Normativas}{11}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.5}Contexto Operativo del CIITA}{12}{subsubsection.2.2.5}%
-\contentsline {subsubsection}{\numberline {2.6}Riesgos Técnicos Identificados}{12}{subsubsection.2.2.6}%
-\contentsline {subsubsection}{\numberline {2.7}Impacto en Certificaciones}{13}{subsubsection.2.2.7}%
-\contentsline {subsubsection}{\numberline {2.8}Metodología de Análisis}{13}{subsubsection.2.2.8}%
-\contentsline {section}{\numberline {III}}{14}{section.3}%
-\contentsline {subsection}{\numberline {3}Desarrollo}{14}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.1}Tareas por semana:}{14}{subsubsection.3.3.1}%
-\contentsline {paragraph}{\numberline {3.1.1}Tercera Semana de Febrero 2025}{14}{paragraph.3.3.1.1}%
-\contentsline {paragraph}{\numberline {3.1.2}Cuarta Semana de Febrero 2025}{15}{paragraph.3.3.1.2}%
-\contentsline {paragraph}{\numberline {3.1.3}Primera Semana de Marzo 2025}{15}{paragraph.3.3.1.3}%
-\contentsline {subsection}{\numberline {4}Metodologías y Herramientas Utilizadas}{16}{subsection.3.4}%
-\contentsline {subsection}{\numberline {5}Principales Desafíos}{16}{subsection.3.5}%
-\contentsline {subsection}{\numberline {6}Lecciones Aprendidas}{17}{subsection.3.6}%
-\contentsline {section}{\numberline {IV}}{18}{section.4}%
-\contentsline {subsection}{\numberline {1}Recomendaciones}{18}{subsection.4.1}%
-\contentsline {section}{\numberline {V}Anexo}{19}{section.5}%
+\contentsline {subsubsection}{\numberline {2.4}Contexto Operativo del CIITA}{11}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.5}Riesgos Técnicos Identificados}{12}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.6}Impacto en Certificaciones}{12}{subsubsection.2.2.6}%
+\contentsline {subsubsection}{\numberline {2.7}Metodología de Análisis}{12}{subsubsection.2.2.7}%
+\contentsline {section}{\numberline {III}}{13}{section.3}%
+\contentsline {subsection}{\numberline {3}Desarrollo}{13}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.1}Tareas por semana:}{13}{subsubsection.3.3.1}%
+\contentsline {paragraph}{\numberline {3.1.1}Tercera Semana de Febrero 2025}{13}{paragraph.3.3.1.1}%
+\contentsline {paragraph}{\numberline {3.1.2}Cuarta Semana de Febrero 2025}{14}{paragraph.3.3.1.2}%
+\contentsline {paragraph}{\numberline {3.1.3}Primera Semana de Marzo 2025}{14}{paragraph.3.3.1.3}%
+\contentsline {subsection}{\numberline {4}Metodologías y Herramientas Utilizadas}{15}{subsection.3.4}%
+\contentsline {subsection}{\numberline {5}Principales Desafíos}{15}{subsection.3.5}%
+\contentsline {subsection}{\numberline {6}Lecciones Aprendidas}{16}{subsection.3.6}%
+\contentsline {section}{\numberline {IV}}{17}{section.4}%
+\contentsline {subsection}{\numberline {1}Recomendaciones}{17}{subsection.4.1}%
+\contentsline {section}{\numberline {V}Anexo}{18}{section.5}%
 \contentsfinish 

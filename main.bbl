@@ -154,11 +154,9 @@ ipn2023}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-of Standards%
-\ \BBA {} Technology%
+{National Institute of Standards and Technology}%
 }{%
-of Standards%
-\ \BBA {} Technology%
+{National Institute of Standards and Technology}%
 }{%
 {\protect \APACyear {2023}}%
 }]{%
@@ -166,8 +164,7 @@ nist2023}
 \APACinsertmetastar {%
 nist2023}%
 \begin{APACrefauthors}%
-of Standards, N\BPBI I.%
-\BCBT {}\ \BBA {} Technology.%
+{National Institute of Standards and Technology}.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
