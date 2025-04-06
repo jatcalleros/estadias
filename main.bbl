@@ -1,48 +1,21 @@
 \begin{thebibliography}{}
 
 \bibitem [\protect \citeauthoryear {%
-de Diputados%
+{Cámara de Diputados}%
 }{%
-de Diputados%
-}{%
-{\protect \APACyear {2021}}%
-{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
-lgbdpsopdf}
-\APACinsertmetastar {%
-lgbdpsopdf}%
-\begin{APACrefauthors}%
-de Diputados, C.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2021{\protect \BCnt {1}}}{}{}.
-\newblock
-\APACrefbtitle {Ley General de Protección de Datos Personales en Posesión de
-  Sujetos Obligados.} {Ley general de protección de datos personales en
-  posesión de sujetos obligados.}
-\newblock
-\APAChowpublished
-  {\url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf}}.
-\newblock
-\APACrefnote{Consultado: 2024-05-20}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-de Diputados%
-}{%
-de Diputados%
+{Cámara de Diputados}%
 }{%
 {\protect \APACyear {2021}}%
-{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+}]{%
 LGPDPSO}
 \APACinsertmetastar {%
 LGPDPSO}%
 \begin{APACrefauthors}%
-de Diputados, C.%
+{Cámara de Diputados}.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2021{\protect \BCnt {2}}}{}{}.
+\APACrefYearMonthDay{2021}{}{}.
 \newblock
 \APACrefbtitle {Ley General de Protección de Datos Personales en Posesión de
   Sujetos Obligados.} {Ley general de protección de datos personales en
@@ -50,30 +23,6 @@ de Diputados, C.%
 \newblock
 \begin{APACrefURL}
   \url{https://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPSO.pdf}
-  \end{APACrefURL}
-\PrintBackRefs{\CurrentBib}
-
-\bibitem [\protect \citeauthoryear {%
-de Economía%
-}{%
-de Economía%
-}{%
-{\protect \APACyear {2022}}%
-}]{%
-LFEA}
-\APACinsertmetastar {%
-LFEA}%
-\begin{APACrefauthors}%
-de Economía, S.%
-\end{APACrefauthors}%
-\unskip\
-\newblock
-\APACrefYearMonthDay{2022}{}{}.
-\newblock
-\APACrefbtitle {Ley de Firma Electrónica Avanzada.} {Ley de firma electrónica
-  avanzada.}
-\newblock
-\begin{APACrefURL} \url{https://www.dof.gob.mx/2022/SEECO/LFEA.pdf}
   \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
@@ -154,29 +103,31 @@ ipn2023}%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
-{National Institute of Standards and Technology}%
+{Secretaría de Economía}%
 }{%
-{National Institute of Standards and Technology}%
+{Secretaría de Economía}%
 }{%
-{\protect \APACyear {2023}}%
+{\protect \APACyear {2018}}%
 }]{%
-nist2023}
+iso_17025_2017}
 \APACinsertmetastar {%
-nist2023}%
+iso_17025_2017}%
 \begin{APACrefauthors}%
-{National Institute of Standards and Technology}.%
+{Secretaría de Economía}.%
 \end{APACrefauthors}%
 \unskip\
 \newblock
-\APACrefYearMonthDay{2023}{}{}.
+\APACrefYearMonthDay{2018}{}{}.
 \newblock
-\APACrefbtitle {NIST Cybersecurity Framework 2.0.} {Nist cybersecurity
-  framework 2.0.}
+\APACrefbtitle {Norma Mexicana NMX-EC-17025-IMNC-2018 (ISO/IEC 17025:2017) -
+  Requisitos generales para la competencia de los laboratorios de ensayo y
+  calibración.} {Norma mexicana nmx-ec-17025-imnc-2018 (iso/iec 17025:2017) -
+  requisitos generales para la competencia de los laboratorios de ensayo y
+  calibración.}
 \newblock
-\APAChowpublished
-  {\url{https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf}}.
-\newblock
-\APACrefnote{Consultado: 2024-05-20}
+\begin{APACrefURL}
+  [{2023-11-15}]\url{https://www.gob.mx/cms/uploads/attachment/file/913713/0008596-Tema_7_Subtema_1-ISO-17025-2017.pdf}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}

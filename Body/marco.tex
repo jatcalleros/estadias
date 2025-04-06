@@ -1,80 +1,81 @@
-
 \section{}
 \setcounter{subsection}{1}
 \subsection{Marco de Referencia}
-\subsubsection{Base Legal-Técnica}
-El diagnóstico de seguridad se fundamenta en dos marcos normativos clave:
-\begin{itemize}
-	\item \textbf{LGPDPSO (Art. 6, 10, 17, 24-36)}: Establece principios y medidas técnicas obligatorias para protección de datos personales en instituciones públicas \cite{lgbdpsopdf}
-	\item \textbf{NIST CSF 2.0}: Marco de ciberseguridad con funciones básicas para gestión de riesgos tecnológicos \cite{nist2023}
-\end{itemize}
+\subsubsection{Base Legal: Ley General de Protección de Datos (LGPDPSO)}  
+La \textit{LGPDPSO} establece obligaciones técnicas específicas para garantizar la integridad de los datos personales en infraestructura tecnológica. El \textbf{Artículo 25} exige medidas de seguridad física y lógica, lo que justificó la actualización de firmware en dispositivos críticos y el cierre de puertos de red no esenciales. Por su parte, el \textbf{Artículo 27} requiere un análisis de riesgos que abarque tanto hardware como software, proceso que guió la evaluación de vulnerabilidades en la red interna mediante herramientas validadas bajo estándares de laboratorio. Finalmente, el \textbf{Artículo 66} sobre mejores prácticas respaldó la adopción de marcos internacionales como el NIST CSF 2.0 para estructurar las acciones técnicas \cite{LGPDPSO}.
 
-\subsubsection{Modelo de Evaluación NIST CSF 2.0}
-Aplicación práctica del marco mediante mapeo de controles:
+\subsubsection{Estándares de Certificación del Laboratorio}  
+El proyecto alinea sus procesos con los requisitos de la norma \textit{ISO/IEC 17025:2017} \cite{iso_17025_2017} para laboratorios de ensayo. La cláusula 7.2 exige validar métodos de análisis técnicos, lo que se aplicó a los escaneos periódicos de vulnerabilidad en la red. La cláusula 6.4 sobre trazabilidad garantiza que las actualizaciones de firmware puedan replicarse bajo condiciones controladas, cumpliendo simultáneamente con el principio de documentación del Artículo 29 de la LGPDPSO \cite{LGPDPSO}. Estas medidas son críticas para mantener la certificación ISO 9001 del laboratorio, que requiere controles de calidad en todos los procesos técnicos.
+
 \begin{table}[h]
 	\centering
-	\caption{Correlación NIST CSF 2.0 - Hallazgos en CIITA}
-	\begin{tabular}{|l|l|l|}
+	\caption{Relación entre Certificaciones y Acciones Técnicas}
+	\label{tab:certificaciones}
+	\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|}
 		\hline
-		\textbf{Función NIST} & \textbf{Requerimiento} & \textbf{Estado en CIITA} \\ \hline
-		Identificar & Inventario de activos & Incompleto (Art. 27 LGPDPSO) \\ 
-		Proteger & Cifrado de datos & No implementado (Art. 25 LGPDPSO) \\ 
-		Detectar & Monitoreo continuo & Sistema inoperante \\ 
-		Responder & Plan de incidentes & No documentado (Art. 33 LGPDPSO) \\ 
-		Recuperar & Copias de seguridad & Manuales/no verificadas \\ \hline
-	\end{tabular}
+		\textbf{Requisito Normativo} & \textbf{Implementación en el Proyecto} \\ \hline
+		ISO/IEC 17025:2017 (Cláusula 7.1.2) & Calibración mensual de herramientas de diagnóstico de red \\ \hline
+		LGPDPSO Artículo 25 & Auditorías físicas bimestrales en servidores \\ \hline
+		ISO 9001:2015 (Cláusula 8.5.1) & Registro detallado de versiones de firmware instaladas \\ \hline
+	\end{tabularx}
 \end{table}
 
-\subsubsection{Requisitos Técnicos de LGPDPSO}
-Principales obligaciones técnicas según los artículos relevantes:
-\begin{enumerate}
-	\item \textbf{Artículo 10}: Implementar principios de licitud, consentimiento y finalidad en tratamiento de datos
-	\item \textbf{Artículo 25}: Establecer medidas de seguridad administrativas, físicas y técnicas
-	\item \textbf{Artículo 27}: Mantener inventario actualizado de sistemas de tratamiento de datos
-	\item \textbf{Artículo 29}: Elaborar documento de seguridad con análisis de riesgos
-	\item \textbf{Artículo 34}: Notificar brechas de seguridad en \textless72 horas
-\end{enumerate}
+\subsubsection{Integración Técnica con NIST CSF 2.0}  
+El marco del \textit{NIST Cybersecurity Framework 2.0} se implementó para estructurar las fases críticas del proyecto, correlacionando sus funciones con los requisitos legales mexicanos. La Tabla \ref{tab:nist-lgpdpso} muestra esta integración:
 
-\textbf{Incumplimientos críticos en CIITA:}
+\begin{table}[h]
+	\centering
+	\caption{Correlación NIST CSF 2.0 - LGPDPSO}
+	\label{tab:nist-lgpdpso}
+	\begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|}
+		\hline
+		\textbf{Función NIST CSF} & \textbf{Cumplimiento Legal} \\ \hline
+		Identificar (Inventario de activos) & Artículo 27.III LGPDPSO \\ \hline
+		Proteger (Cifrado de datos) & Artículo 25 LGPDPSO \\ \hline
+		Detectar (Monitoreo continuo) & Artículo 24.V LGPDPSO \\ \hline
+	\end{tabularx}
+\end{table}
+
+
+\subsubsection{Sinergia Normativa}  
+La integración de estos marcos permite una gestión holística de riesgos. Por ejemplo, las auditorías  requeridas por ISO 9001 (Cláusula 9.2) generan informes que cumplen simultáneamente con:
 \begin{itemize}
-	\item Falta de inventario de datos personales (Art. 27.III)
-	\item Falta de conocimiento de confidencialidad básica en empleados (Art. 24.III y 36)
-	\item Falta de mecanismos básicos para proteger la información (Art. 25 y 26)
+	\item El Artículo 29 de la LGPDPSO sobre documentación técnica
+	\item La Cláusula 8.5 de ISO/IEC 17025 para mejora continua
+	\item El principio de monitoreo del NIST CSF 2.0
 \end{itemize}
 
-\subsubsection{Contexto Operativo del CIITA}
-Como único centro del \textbf{IPN} especializado en integración tecnológica en la frontera norte, el CIITA:
-\begin{itemize}
-	\item Capacita a \textbf{350+ estudiantes anuales} en automatización industrial.
-	\item Colabora con \textbf{15+ maquiladoras} en proyectos de I+D en sectores aeroespacial y médico.
-	\item Requiere \textbf{2.5 millones de MXN} para modernizar infraestructura (18\% del presupuesto anual).\cite{ipn2023}
-\end{itemize}
+\subsubsection{Definiciones Técnicas Clave}
+A continuación se definen los términos técnicos más relevantes para el proyecto:
 
-El CIITA debe cumplir adicionalmente con:
 \begin{itemize}
-	\item \textbf{Ley de Firma Electrónica Avanzada}: Para validar integridad de comunicaciones oficiales
-	\item \textbf{Ley General de Transparencia}: En lo relativo a protección de datos públicos no sensibles
-\end{itemize}
-
-\subsubsection{Riesgos Técnicos Identificados}
-\begin{itemize}
-	\item \textbf{Red no segmentada}: Dispositivos en la red de invitados acceden a recursos internos sin restricciones.
-	\item \textbf{Equipos obsoletos}: 30+ computadoras con sistemas operativos sin soporte (ej: Windows 10) en laboratorios.
-	\item \textbf{Gestión de TI remota}: Soporte técnico desde Chihuahua causa retrasos en resolver incidentes críticos.
-\end{itemize}
-
-\subsubsection{Impacto en Certificaciones}
-La infraestructura actual del CIITA contradice requisitos de:
-\begin{itemize}
-	\item \textbf{ISO 9001}: Falta de controles para garantizar calidad operativa.
-	\item \textbf{ISO 27000}: Configuraciones de red inseguras y datos expuestos.
-\end{itemize}
-
-\subsubsection{Metodología de Análisis}
-El diagnóstico se realizó mediante:
-\begin{itemize}
-	\item \textbf{Observación de tráfico}: Identificación de dispositivos no autorizados en subredes críticas mediante herramientas de escaneo pasivo (ej: Wireshark).
-	\item \textbf{Pruebas de conectividad}: Verificación de políticas de firewall mediante intentos de acceso a sitios web comúnmente bloqueados (ej: redes P2P, contenido malicioso).
-	\item \textbf{Revisión documental}: Análisis de políticas de seguridad existentes proporcionadas por el personal del CIITA.
-	\item \textbf{Entrevistas}: Consultas al personal técnico para validar hallazgos y contextualizar limitaciones operativas.
+	\item \textbf{ISO 9001:2015}: Norma internacional para sistemas de gestión de calidad. En el CIITA, garantiza trazabilidad en procesos como mediciones de metrología y pruebas de compatibilidad electromagnética (EMC).
+	
+	\item \textbf{LGPDPSO}: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados. Exige medidas técnicas como actualización de firmware y auditorías físicas en servidores.
+	
+	\item \textbf{NIST CSF 2.0}: Marco de ciberseguridad del National Institute of Standards and Technology. Usado para estructurar la gestión de riesgos en el proyecto.
+	
+	\item \textbf{VLAN (Virtual Local Area Network)}: Segmentación lógica de redes para aislar dispositivos críticos (ej: laboratorios de prototipos electrónicos).
+	
+	\item \textbf{Firmware}: Software incrustado en dispositivos de red (ej: switches Cisco Catalyst 2960). Su actualización fue clave para mitigar vulnerabilidades.
+	
+	\item \textbf{ISO/IEC 17025:2017}: Estándar para competencia técnica en laboratorios. En el CIITA, aplica a calibración de herramientas de diagnóstico de red.
+	
+	\item \textbf{Metrología dimensional}: Servicio del CIITA para mediciones técnicas certificables bajo ISO 9001.
+	
+	\item \textbf{Compatibilidad Electromagnética (EMC)}: Análisis de interferencias en dispositivos electrónicos. Crítico para certificaciones internacionales como FCC/CE.
+	
+	\item \textbf{Manufactura Aditiva}: Tecnología de impresión 3D industrial en el CIITA. Requiere control estadístico de procesos bajo ISO 9001.
+	
+	\item \textbf{Trazabilidad}: Requisito de ISO 9001 para documentar versiones de firmware, actualizaciones de BIOS y resultados de laboratorio.
+	
+	\item \textbf{Cisco Catalyst 2960}: Switches obsoletos (8 años de servicio) identificados en la red del CIITA, con firmware desactualizado.
+	
+	\item \textbf{BIOS}: Sistema básico de entrada/salida en equipos. Su falta de parches generó vulnerabilidades críticas.
+	
+	\item \textbf{Parches de seguridad}: Actualizaciones para software y sistemas operativos. Meta del proyecto: eliminación del 100\% de software sin parches en 8 semanas.
+	
+	\item \textbf{Segmentación de subredes}: Práctica no implementada inicialmente en el CIITA, permitiendo que redes de invitados compartieran segmentos con recursos internos.
+	
+	\item \textbf{Dell Command Update}: Herramienta utilizada para actualizaciones masivas de firmware y controladores en equipos del CIITA.
 \end{itemize}

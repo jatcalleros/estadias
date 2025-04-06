@@ -1,3 +1,89 @@
 \section{}
 
 \subsection{Recomendaciones}
+
+\subsection*{Ampliación del Espacio de Direcciones IP}
+La migración del bloque actual /24 a un espacio más amplio (/23 o preferentemente /22) es fundamental para garantizar la escalabilidad de la red. Este cambio permitiría al CIITA manejar un crecimiento proyectado de dispositivos sin restricciones técnicas inmediatas, proporcionando flexibilidad para futuras expansiones. Se recomienda realizar un estudio detallado de las necesidades actuales y futuras para determinar la máscara óptima, considerando factores como la cantidad estimada de usuarios, dispositivos IoT y equipos críticos. Los beneficios clave incluyen:
+
+\begin{itemize}
+	\item Capacidad para asignar rangos específicos a diferentes áreas operativas
+	\item Reserva estratégica de direcciones IP para proyectos de corto y mediano plazo
+	\item Reducción de conflictos por agotamiento de direcciones
+\end{itemize}
+
+\subsection*{Gestión Segura de Equipos de Laboratorio}
+Los equipos de laboratorio actualmente operan con credenciales administrativas compartidas, lo que permite modificaciones no autorizadas en la configuración de software. Para mitigar este riesgo, se propone implementar un modelo de cuentas diferenciadas:
+
+\begin{itemize}
+	\item \textbf{Cuenta administrativa}: Acceso restringido al personal técnico autorizado, con autenticación de dos factores
+	\item \textbf{Cuenta de usuario estándar}: Privilegios limitados para actividades cotidianas (sin instalación/eliminación de software)
+	\item \textbf{Cuenta invitado}: Acceso temporal con restricciones horarias y bloqueo de ejecutables
+\end{itemize}
+
+Este enfoque garantizaría que solo el personal certificado pueda realizar cambios críticos, mientras que los usuarios ocasionales operarían en un entorno controlado.
+
+\subsection*{Protección de la Red Inalámbrica}
+La configuración actual de los SSID requiere ajustes para equilibrar accesibilidad y seguridad. Para la red de invitados, se sugiere implementar un segmento completamente aislado con las siguientes características:
+
+\begin{itemize}
+	\item Ancho de banda limitado para prevenir abusos
+	\item Bloqueo de protocolos no esenciales (ej. SMB, RDP)
+	\item Renovación automática de direcciones IP cada 30 minutos
+\end{itemize}
+
+En paralelo, la red interna debería operar con encriptación WPA3 y autenticación basada en certificados digitales. Para dispositivos que requieran acceso abierto sin restricciones (ej. sistemas legacy), se propone crear una subred dedicada sin conectividad a recursos internos.
+
+\subsection*{Refuerzo de Controles Básicos de Seguridad}
+La implementación de políticas técnicas mínimas podría reducir significativamente los riesgos actuales:
+
+\begin{itemize}
+	\item Actualización obligatoria de firmware en dispositivos de red cada 90 días
+	\item Configuración de Port Security en switches para limitar direcciones MAC por puerto
+	\item Habilitación de DHCP Snooping para prevenir ataques de suplantación
+	\item Rotación automatizada de contraseñas cada 45 días mediante scripts
+\end{itemize}
+
+Estas medidas no requieren inversión significativa pero proporcionarían una capa básica de protección contra amenazas comunes.
+
+\subsection*{Gobernanza y Cumplimiento Normativo}
+La creación de un marco normativo interno es esencial para alinear las operaciones con estándares legales e institucionales:
+
+\begin{itemize}
+	\item Desarrollo de una política de contraseñas que prohíba el uso de credenciales compartidas
+	\item Establecimiento de ventanas de mantenimiento obligatorias para parches críticos
+	\item Implementación de bitácoras de acceso detalladas para todos los equipos administrativos
+	\item Designación de un responsable de cumplimiento con revisiones trimestrales
+\end{itemize}
+
+\subsection*{Protección Física y Acceso}
+El control físico de la infraestructura crítica requiere medidas inmediatas:
+
+\begin{itemize}
+	\item Instalación de registros de acceso electrónico para salas técnicas
+	\item Implementación de horarios restringidos para mantenimiento no programado
+	\item Etiquetado y geolocalización de equipos móviles
+	\item Protocolos de verificación para personal externo que manipule dispositivos
+\end{itemize}
+
+\subsection*{Capacitación Continua}
+Un programa de formación escalonado aseguraría la adopción efectiva de las nuevas políticas:
+
+\begin{itemize}
+	\item Talleres básicos sobre higiene digital para todo el personal
+	\item Simulacros de phishing trimestrales con métricas de mejora
+	\item Certificación anual en manejo de datos sensibles para áreas clave
+	\item Guías rápidas de referencia para protocolos de emergencia
+\end{itemize}
+
+\subsection*{Plan de Continuidad Operativa}
+La preparación para incidentes graves debe incluir:
+
+\begin{itemize}
+	\item Respaldos automatizados con regla 3-2-1 (3 copias, 2 medios, 1 externa)
+	\item Pruebas de recuperación mensuales con escenarios realistas
+	\item Acuerdos de nivel de servicio (SLA) con proveedores críticos
+	\item Kit de respuesta a emergencias con documentación esencial
+\end{itemize}
+
+\subsection*{Nota Adicional} 
+Como se mencionó anteriormente, el análisis técnico completo de la infraestructura de red —incluyendo pruebas de penetración, modelado de amenazas y diagnósticos detallados— se encuentra disponible en el \textbf{Anexo 1}.

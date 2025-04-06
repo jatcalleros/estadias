@@ -14,30 +14,33 @@
 % --- Section Formatting ---
 \usepackage{titlesec}
 \usepackage{titletoc}
+\usepackage{tabularx}
+\usepackage{pdfpages}
 
-\renewcommand{\thesubsection}{\arabic{subsection}} % New (1, 2)
-\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
-% Center-align subsections
-\titleformat{\subsection}
-{\normalfont\large\bfseries\centering}{\thesubsection}{1em}{}
+% Reset counters and numbering
+\renewcommand{\thesection}{\Roman{section}} % I, II, III...
+\renewcommand{\thesubsection}{\arabic{subsection}} % 1, 2, 3...
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}} % 1.1, 1.2...
 
-
-% Left-align subsubsections (bold, normal font)
-\titleformat{\subsubsection}
-{\normalfont\normalsize\bfseries\raggedright}{\thesubsubsection}{1em}{}
-
-% Numeración romana para capítulos
-\renewcommand{\thesection}{\Roman{section}}
-
-\newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
-\setcounter{secnumdepth}{4}
-\setcounter{tocdepth}{4}
-
-% Formato de sección personalizado
+% Section formatting (centered, CAPÍTULO prefix)
 \titleformat{\section}
 {\normalfont\Large\bfseries\centering}
-{CAPÍTULO \thesection} % Eliminamos los dos puntos
+{CAPÍTULO \thesection}
 {0em}
+{}
+
+% Subsection formatting (left-aligned, bold, large)
+\titleformat{\subsection}
+{\normalfont\large\bfseries\raggedright}
+{\thesubsection}
+{1em}
+{}
+
+% Subsubsection formatting (centered, bold, normal)
+\titleformat{\subsubsection}
+{\normalfont\normalsize\bfseries\centering}
+{\thesubsubsection}
+{1em}
 {}
 
 % Customize table of contents
@@ -47,6 +50,11 @@
 {CAPÍTULO: \thecontentslabel\quad} 
 {} 
 {\hfill\contentspage}
+
+% Optional: For deeper subsections (4th level)
+\newcommand{\subsubsubsection}[1]{\paragraph{#1}\mbox{}\\}
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{4}
 
 % --- Page Layout ---
 \usepackage{geometry}
@@ -80,6 +88,9 @@
 % --- Double Space After Paragraph ---
 \usepackage{parskip}
 \setlength{\parskip}{\baselineskip}
+
+\usepackage[natbibapa]{apacite}
+\bibliographystyle{apacite}
 % --- Document begins ---
 \begin{document}
 

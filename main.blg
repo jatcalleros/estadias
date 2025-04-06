@@ -2,6 +2,10 @@ This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: main.aux
 The style file: apacite.bst
+Illegal, another \bibstyle command---line 23 of file main.aux
+ : \bibstyle
+ :          {apacite}
+I'm skipping whatever remains of this command
 A level-1 auxiliary file: titlepage/titlepage.aux
 A level-1 auxiliary file: Body/oficio_de_autoricacion.aux
 A level-1 auxiliary file: Body/agradecimientos.aux
@@ -25,52 +29,50 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: referencias.bib
-Repeated entry---line 152 of file referencias.bib
- : @misc{LGPDPSO
- :              ,
-I'm skipping whatever remains of this entry
 Warning--entry type for "ipn_organizacion" isn't style-file defined
---line 159 of file referencias.bib
+--line 155 of file referencias.bib
+Warning--entry type for "iso_17025_2017" isn't style-file defined
+--line 178 of file referencias.bib
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 7 entries,
+You've used 5 entries,
             6951 wiz_defined-function locations,
-            1315 strings with 12134 characters,
-and the built_in function-call counts, 11819 in all, are:
-= -- 1538
-> -- 61
-< -- 573
-+ -- 531
-- -- 17
-* -- 714
-:= -- 2200
-add.period$ -- 31
-call.type$ -- 7
-change.case$ -- 134
+            1307 strings with 12067 characters,
+and the built_in function-call counts, 9772 in all, are:
+= -- 1286
+> -- 40
+< -- 527
++ -- 500
+- -- 14
+* -- 601
+:= -- 1926
+add.period$ -- 21
+call.type$ -- 5
+change.case$ -- 84
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 212
-empty$ -- 495
-format.name$ -- 84
-if$ -- 2319
+cite$ -- 10
+duplicate$ -- 149
+empty$ -- 359
+format.name$ -- 56
+if$ -- 1840
 int.to.chr$ -- 0
-int.to.str$ -- 25
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 158
-num.names$ -- 48
-pop$ -- 439
+newline$ -- 110
+num.names$ -- 32
+pop$ -- 253
 preamble$ -- 1
-purify$ -- 27
+purify$ -- 19
 quote$ -- 0
-skip$ -- 643
+skip$ -- 605
 stack$ -- 0
-substring$ -- 566
-swap$ -- 104
-text.length$ -- 16
+substring$ -- 523
+swap$ -- 71
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 656
+type$ -- 568
 warning$ -- 0
-while$ -- 32
+while$ -- 22
 width$ -- 0
-write$ -- 173
+write$ -- 121
 (There was 1 error message)
