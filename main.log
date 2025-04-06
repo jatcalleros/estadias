@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.3.10)  6 APR 2025 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.3.10)  6 APR 2025 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -707,6 +707,48 @@ Package pdftex.def Info: Images/ESCUDO_UTCJ2014_02.jpg  used on input line 12.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-di
 st/fonts/enc/dvips/base/8r.enc} <./Images/ESCUDO_UTCJ2014_02.jpg>]) (./main.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 3.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 3
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 3.
 )
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -746,48 +788,7 @@ l.108 \newpage
 (./Body/Intro/Intro.tex)
 \openout2 = `Body/Intro/Antecedentes.aux'.
 
- (./Body/Intro/Antecedentes.tex
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
-File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
-)
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `ztmcm' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
-File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
-File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 4.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
-File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 4
-.
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 4.
- [4
+ (./Body/Intro/Antecedentes.tex [4
 
 
 
@@ -877,7 +878,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 153--154
 \openout2 = `Anexos.aux'.
 
  (./Anexos.tex
-<CIITA.pdf, id=271, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=307, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf>
 Package pdftex.def Info: CIITA.pdf  used on input line 13.
@@ -886,7 +887,7 @@ File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf>
 Package pdftex.def Info: CIITA.pdf  used on input line 13.
 (pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
-<CIITA.pdf, id=274, page=1, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=310, page=1, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 1>
 Package pdftex.def Info: CIITA.pdf , page1 used on input line 13.
@@ -913,7 +914,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page1 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [26 <./CIITA.pdf>]
-<CIITA.pdf, id=326, page=2, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=361, page=2, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 2>
 Package pdftex.def Info: CIITA.pdf , page2 used on input line 13.
@@ -927,7 +928,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page2 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [27 <./CIITA.pdf>]
-<CIITA.pdf, id=343, page=3, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=378, page=3, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 3>
 Package pdftex.def Info: CIITA.pdf , page3 used on input line 13.
@@ -941,7 +942,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page3 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [28 <./CIITA.pdf>]
-<CIITA.pdf, id=354, page=4, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=389, page=4, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 4>
 Package pdftex.def Info: CIITA.pdf , page4 used on input line 13.
@@ -955,7 +956,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page4 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [29 <./CIITA.pdf>]
-<CIITA.pdf, id=359, page=5, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=394, page=5, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 5>
 Package pdftex.def Info: CIITA.pdf , page5 used on input line 13.
@@ -969,7 +970,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page5 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [30 <./CIITA.pdf>]
-<CIITA.pdf, id=365, page=6, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=400, page=6, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 6>
 Package pdftex.def Info: CIITA.pdf , page6 used on input line 13.
@@ -983,7 +984,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page6 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [31 <./CIITA.pdf>]
-<CIITA.pdf, id=370, page=7, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=405, page=7, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 7>
 Package pdftex.def Info: CIITA.pdf , page7 used on input line 13.
@@ -997,7 +998,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page7 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [32 <./CIITA.pdf>]
-<CIITA.pdf, id=375, page=8, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=410, page=8, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 8>
 Package pdftex.def Info: CIITA.pdf , page8 used on input line 13.
@@ -1011,7 +1012,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page8 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [33 <./CIITA.pdf>]
-<CIITA.pdf, id=387, page=9, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=422, page=9, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 9>
 Package pdftex.def Info: CIITA.pdf , page9 used on input line 13.
@@ -1025,7 +1026,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page9 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [34 <./CIITA.pdf>]
-<CIITA.pdf, id=393, page=10, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=428, page=10, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 10>
 Package pdftex.def Info: CIITA.pdf , page10 used on input line 13.
@@ -1039,7 +1040,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page10 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [35 <./CIITA.pdf>]
-<CIITA.pdf, id=405, page=11, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=440, page=11, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 11>
 Package pdftex.def Info: CIITA.pdf , page11 used on input line 13.
@@ -1053,7 +1054,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page11 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [36 <./CIITA.pdf>]
-<CIITA.pdf, id=411, page=12, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=447, page=12, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 12>
 Package pdftex.def Info: CIITA.pdf , page12 used on input line 13.
@@ -1067,7 +1068,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page12 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [37 <./CIITA.pdf>]
-<CIITA.pdf, id=416, page=13, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=452, page=13, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 13>
 Package pdftex.def Info: CIITA.pdf , page13 used on input line 13.
@@ -1081,7 +1082,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page13 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [38 <./CIITA.pdf>]
-<CIITA.pdf, id=422, page=14, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=458, page=14, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 14>
 Package pdftex.def Info: CIITA.pdf , page14 used on input line 13.
@@ -1095,7 +1096,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page14 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [39 <./CIITA.pdf>]
-<CIITA.pdf, id=431, page=15, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=467, page=15, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 15>
 Package pdftex.def Info: CIITA.pdf , page15 used on input line 13.
@@ -1109,7 +1110,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page15 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [40 <./CIITA.pdf>]
-<CIITA.pdf, id=443, page=16, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=479, page=16, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 16>
 Package pdftex.def Info: CIITA.pdf , page16 used on input line 13.
@@ -1124,7 +1125,7 @@ Package pdftex.def Info: CIITA.pdf , page16 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [41 <./CIITA.pdf>]
-<CIITA.pdf, id=449, page=17, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=485, page=17, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 17>
 Package pdftex.def Info: CIITA.pdf , page17 used on input line 13.
@@ -1138,7 +1139,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page17 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [42 <./CIITA.pdf>]
-<CIITA.pdf, id=455, page=18, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=491, page=18, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 18>
 Package pdftex.def Info: CIITA.pdf , page18 used on input line 13.
@@ -1152,7 +1153,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page18 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [43 <./CIITA.pdf>]
-<CIITA.pdf, id=460, page=19, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=496, page=19, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 19>
 Package pdftex.def Info: CIITA.pdf , page19 used on input line 13.
@@ -1166,7 +1167,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page19 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [44 <./CIITA.pdf>]
-<CIITA.pdf, id=465, page=20, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=501, page=20, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 20>
 Package pdftex.def Info: CIITA.pdf , page20 used on input line 13.
@@ -1181,7 +1182,7 @@ Package pdftex.def Info: CIITA.pdf , page20 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [45 <./CIITA.pdf>]
-<CIITA.pdf, id=472, page=21, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=507, page=21, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 21>
 Package pdftex.def Info: CIITA.pdf , page21 used on input line 13.
@@ -1195,7 +1196,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page21 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [46 <./CIITA.pdf>]
-<CIITA.pdf, id=478, page=22, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=513, page=22, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 22>
 Package pdftex.def Info: CIITA.pdf , page22 used on input line 13.
@@ -1209,7 +1210,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page22 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [47 <./CIITA.pdf>]
-<CIITA.pdf, id=484, page=23, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=519, page=23, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 23>
 Package pdftex.def Info: CIITA.pdf , page23 used on input line 13.
@@ -1223,7 +1224,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page23 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [48 <./CIITA.pdf>]
-<CIITA.pdf, id=491, page=24, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=526, page=24, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 24>
 Package pdftex.def Info: CIITA.pdf , page24 used on input line 13.
@@ -1238,7 +1239,7 @@ Package pdftex.def Info: CIITA.pdf , page24 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [49 <./CIITA.pdf>]
-<CIITA.pdf, id=496, page=25, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=531, page=25, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 25>
 Package pdftex.def Info: CIITA.pdf , page25 used on input line 13.
@@ -1252,7 +1253,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page25 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [50 <./CIITA.pdf>]
-<CIITA.pdf, id=507, page=26, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=542, page=26, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 26>
 Package pdftex.def Info: CIITA.pdf , page26 used on input line 13.
@@ -1266,7 +1267,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page26 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [51 <./CIITA.pdf>]
-<CIITA.pdf, id=512, page=27, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=547, page=27, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 27>
 Package pdftex.def Info: CIITA.pdf , page27 used on input line 13.
@@ -1280,7 +1281,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page27 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [52 <./CIITA.pdf>]
-<CIITA.pdf, id=517, page=28, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=552, page=28, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 28>
 Package pdftex.def Info: CIITA.pdf , page28 used on input line 13.
@@ -1295,7 +1296,7 @@ Package pdftex.def Info: CIITA.pdf , page28 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [53 <./CIITA.pdf>]
-<CIITA.pdf, id=523, page=29, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=558, page=29, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 29>
 Package pdftex.def Info: CIITA.pdf , page29 used on input line 13.
@@ -1309,7 +1310,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page29 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [54 <./CIITA.pdf>]
-<CIITA.pdf, id=535, page=30, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=570, page=30, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 30>
 Package pdftex.def Info: CIITA.pdf , page30 used on input line 13.
@@ -1323,7 +1324,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page30 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [55 <./CIITA.pdf>]
-<CIITA.pdf, id=540, page=31, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=575, page=31, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 31>
 Package pdftex.def Info: CIITA.pdf , page31 used on input line 13.
@@ -1337,7 +1338,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page31 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [56 <./CIITA.pdf>]
-<CIITA.pdf, id=545, page=32, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=580, page=32, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 32>
 Package pdftex.def Info: CIITA.pdf , page32 used on input line 13.
@@ -1352,7 +1353,7 @@ Package pdftex.def Info: CIITA.pdf , page32 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [57 <./CIITA.pdf>]
-<CIITA.pdf, id=550, page=33, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=585, page=33, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 33>
 Package pdftex.def Info: CIITA.pdf , page33 used on input line 13.
@@ -1366,7 +1367,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page33 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [58 <./CIITA.pdf>]
-<CIITA.pdf, id=555, page=34, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=590, page=34, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 34>
 Package pdftex.def Info: CIITA.pdf , page34 used on input line 13.
@@ -1380,7 +1381,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page34 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [59 <./CIITA.pdf>]
-<CIITA.pdf, id=560, page=35, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=595, page=35, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 35>
 Package pdftex.def Info: CIITA.pdf , page35 used on input line 13.
@@ -1394,7 +1395,7 @@ File: CIITA.pdf Graphic file (type pdf)
 Package pdftex.def Info: CIITA.pdf , page35 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
  [60 <./CIITA.pdf>]
-<CIITA.pdf, id=566, page=36, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=601, page=36, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 36>
 Package pdftex.def Info: CIITA.pdf , page36 used on input line 13.
@@ -1409,7 +1410,7 @@ Package pdftex.def Info: CIITA.pdf , page36 used on input line 13.
 (pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
 
 [61 <./CIITA.pdf>]
-<CIITA.pdf, id=571, page=37, 597.50829pt x 845.0471pt>
+<CIITA.pdf, id=606, page=37, 597.50829pt x 845.0471pt>
 File: CIITA.pdf Graphic file (type pdf)
 <use CIITA.pdf, page 37>
 Package pdftex.def Info: CIITA.pdf , page37 used on input line 13.
@@ -1434,38 +1435,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 
-Underfull \hbox (badness 3536) in paragraph at lines 116--132
-[]\T1/ptm/m/n/12 (+20) Secretaría de Eco-no-mía.  (2018).  \T1/ptm/m/it/12 (+20
-) Nor-ma me-xi-ca-na nmx-ec-17025-imnc-
+Underfull \hbox (badness 3407) in paragraph at lines 42--52
+[]\T1/ptm/m/it/12 (+20) Inauguran el cen-tro de in-no-va-ción e in-te-gra-ción 
+de tec-no-lo-gías avan-za-das del
  []
 
 
-Underfull \hbox (badness 5316) in paragraph at lines 116--132
-\T1/ptm/m/it/12 (+20) 2018 (iso/iec 17025:2017) - re-qui-si-tos ge-ne-ra-les pa
--ra la com-pe-ten-
+Underfull \hbox (badness 5847) in paragraph at lines 42--52
+\T1/ptm/m/it/12 (+20) ipn en ciu-dad juá-rez.  \T1/ptm/m/n/12 (+20) (2024).  In
+s-ti-tu-to Po-li-téc-ni-co Na-cio-nal (IPN).
  []
 
 
-Underfull \hbox (badness 2351) in paragraph at lines 116--132
-\T1/ptm/m/it/12 (+20) cia de los la-bo-ra-to-rios de en-sa-yo y ca-li-bra-ción.
-  \T1/ptm/m/n/12 (+20) Des-car-ga-do 2023-
+Underfull \hbox (badness 1082) in paragraph at lines 64--76
+[]\T1/ptm/m/n/12 (+20) Instituto Po-li-téc-ni-co Na-cio-nal.  (2023).  \T1/ptm/
+m/it/12 (+20) Or-ga-ni-za-ción y es-truc-tu-ra.  \T1/ptm/m/n/12 (+20) Des-car-g
+a-do
  []
 
-)
 
-! LaTeX Error: \begin{itemize} on input line 184 ended by \end{document}.
+Underfull \hbox (badness 10000) in paragraph at lines 116--132
+\T1/cmtt/m/n/12 uploads / attachment / file / 913713 / 0008596 [] -Tema [] []7 
+[] []Subtema [] []1 [] -ISO [] -17025 []
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.166 \end{document}
-                    
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-[63
+) [63
 
 
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
@@ -1480,39 +1474,35 @@ LaTeX Info: Redefining \% on input line 25.
 (./Body/resultados_y_recomendaciones.aux) (./Anexos.aux))
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: FEAA33159777F3F8B849754C4EBBF6D6;5253.
- )
-(\end occurred inside a group at level 1)
-
-### semi simple group (level 1) entered at line 184 (\begingroup)
-### bottom level 
+ ) 
 Here is how much of TeX's memory you used:
- 18298 strings out of 476041
- 301137 string characters out of 5793174
- 1859388 words of memory out of 6000000
+ 18295 strings out of 476041
+ 301110 string characters out of 5793174
+ 1863388 words of memory out of 6000000
  37939 multiletter control sequences out of 15000+600000
- 578405 words of font info for 282 fonts, out of 8000000 for 9000
+ 578281 words of font info for 280 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 75i,17n,77p,1133b,853s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf
--dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/ty
-pe1/public/cm-super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/cm-super/sfrm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
-super/sfti1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
-fti1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1095
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (64 pages, 2622991 bytes).
+ 75i,17n,77p,1133b,669s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texliv
+e/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/cm-super/sfbx1728.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/cm-super/sfrm1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/cm-super/sfrm1095.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-
+super/sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/s
+frm1440.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1095
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb></usr/sha
+re/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw
+/times/utmri8a.pfb>
+Output written on main.pdf (64 pages, 2625899 bytes).
 PDF statistics:
- 652 PDF objects out of 1000 (max. 8388607)
- 490 compressed objects within 5 object streams
+ 689 PDF objects out of 1000 (max. 8388607)
+ 522 compressed objects within 6 object streams
  102 named destinations out of 1000 (max. 500000)
  77254 words of extra memory for PDF output out of 89155 (max. 10000000)
 
