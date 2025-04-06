@@ -1,6 +1,42 @@
 \section{}
+\setcounter{subsection}{3}
 
-\subsection{Recomendaciones}
+\subsection{Resultados y Recomendaciones}
+
+\subsubsection{Resultados}
+
+\textbf{Análisis Lógico:}  
+La infraestructura tecnológica del CIITA presenta una contradicción fundamental entre sus objetivos de crecimiento y sus prácticas operativas. La dependencia de un bloque /24 sin segmentación efectiva, combinada con la ausencia de políticas técnicas básicas, genera un modelo donde cada intento de expansión amplifica riesgos existentes. Esto crea un ciclo negativo: mayor escala implica mayor exposición a amenazas sin mecanismos compensatorios.
+
+\textbf{Evaluación Técnica:}  
+Los hallazgos críticos se agrupan en cuatro dimensiones:
+\begin{itemize}
+	\item \textbf{Arquitectura de red:} Diseño plano que permite acceso transversal entre dispositivos críticos y redes de invitados (Figura 4). Switches sin DHCP Snooping o Port Security facilitan ataques de inundación CAM y agotamiento DHCP.
+	\item \textbf{Gestión de endpoints:} 71\% del espacio IP consumido solo por equipos internos, con dispositivos móviles no cifrados y cuentas administrativas compartidas.
+	\item \textbf{Cumplimiento normativo:} Vulneraciones a la LGPD (Art. 6, 10, 17) e ISO 9001 por falta de cifrado, auditorías y documentación técnica.
+	\item \textbf{Seguridad física:} Acceso no restringido a salas técnicas críticas con equipos expuestos a manipulaciones no autorizadas.
+\end{itemize}
+
+\textbf{Interpretación Institucional:}  
+La cultura organizacional prioriza la conveniencia operativa sobre protocolos de seguridad, evidenciada en tres patrones:
+\begin{itemize}
+	\item Credenciales expuestas físicamente en equipos críticos (Figura 7-8)
+	\item Actualizaciones de seguridad pospuestas sistemáticamente
+	\item Ausencia de liderazgo técnico local para implementar controles básicos
+\end{itemize}
+Esta dinámica institucionaliza prácticas de riesgo que obstaculizan la adopción de soluciones técnicas disponibles.
+
+\textbf{Crítica Estratégica:}  
+La inacción en ciberseguridad representa un riesgo existencial para la misión del CIITA. Un incidente grave (ej. ransomware o filtración masiva) podría:
+\begin{itemize}
+	\item Paralizar operaciones por más de 72 horas según simulaciones de continuidad
+	\item Exponer datos sensibles de 185+ dispositivos interconectados
+	\item Comprometer alianzas estratégicas por incumplir cláusulas de seguridad
+\end{itemize}
+
+\subsubsection{Recomendaciones}
+
+Las recomendaciones detalladas para romper este ciclo –incluyendo rediseño de red, políticas técnicas y capacitación escalonada– se encuentran desarrolladas integralmente en el informe completo adjunto en los Anexos (Sección 8). Su implementación no solo mitigaría riesgos actuales, sino que establecería las bases para un crecimiento alineado con los estándares del IPN y las expectativas de sus stakeholders.
 
 \subsection*{Ampliación del Espacio de Direcciones IP}
 La migración del bloque actual /24 a un espacio más amplio (/23 o preferentemente /22) es fundamental para garantizar la escalabilidad de la red. Este cambio permitiría al CIITA manejar un crecimiento proyectado de dispositivos sin restricciones técnicas inmediatas, proporcionando flexibilidad para futuras expansiones. Se recomienda realizar un estudio detallado de las necesidades actuales y futuras para determinar la máscara óptima, considerando factores como la cantidad estimada de usuarios, dispositivos IoT y equipos críticos. Los beneficios clave incluyen:
