@@ -64,7 +64,8 @@
 	left=3.0cm,
 	right=2.5cm,
 }
-
+\usepackage{pgf-pie} % Para gráficos de pastel
+\usepackage{tikz} % Requerido para pgf-pie
 % --- Spacing and fonts ---
 \usepackage{setspace}
 \onehalfspacing
@@ -75,7 +76,22 @@
 \fancyhf{}
 \fancyfoot[C]{\thepage}
 
-\usepackage{hyperref} % Keep hyperref loaded LAST
+\usepackage[hypertexnames=false]{hyperref}
+\hypersetup{
+	colorlinks=true,      % Colored text links (no boxes)
+	linkcolor=black,      % Color for internal links (e.g., sections)
+	citecolor=black,       % Color for citations
+	urlcolor=cyan,        % Color for URLs
+	pdfborder={1 1 1},    % Remove all link borders globally
+}
+
+% Override settings for the Table of Contents (index) only
+\makeatletter
+\renewcommand{\@tocline}[1]{% 
+	\hypersetup{pdfborder={0 0 0}} % Remove borders for TOC entries
+	\old@tocline{#1}%              % Original TOC behavior
+}
+\makeatother
 % --- Fix Citations ---
 \usepackage[natbibapa]{apacite} % Add natbibapa option
 \bibliographystyle{apacite}

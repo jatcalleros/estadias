@@ -1,36 +1,36 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {I}}{4}{section.1}%
-\contentsline {subsection}{\numberline {1}Introducción}{4}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1}ANTECEDENTES DE LA EMPRESA}{4}{subsubsection.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1.1}Misión}{4}{paragraph.1.1.1.1}%
-\contentsline {paragraph}{\numberline {1.1.2}Visión}{4}{paragraph.1.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.2}Definición del Problema}{6}{subsubsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.3}Justificación}{7}{subsubsection.1.1.3}%
-\contentsline {subsubsection}{\numberline {1.4}Objetivo y metas}{8}{subsubsection.1.1.4}%
-\contentsline {paragraph}{\numberline {1.4.1}Objetivo general}{8}{paragraph.1.1.4.1}%
-\contentsline {paragraph}{\numberline {1.4.2}Objetivos específicos}{8}{paragraph.1.1.4.2}%
-\contentsline {section}{\numberline {II}}{10}{section.2}%
-\contentsline {subsection}{\numberline {2}Marco de Referencia}{10}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.1}Base Legal: Ley General de Protección de Datos (LGPDPSO)}{10}{subsubsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2}Estándares de Certificación del Laboratorio}{10}{subsubsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.3}Integración Técnica con NIST CSF 2.0}{11}{subsubsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.4}Sinergia Normativa}{11}{subsubsection.2.2.4}%
-\contentsline {subsubsection}{\numberline {2.5}Definiciones Técnicas Clave}{11}{subsubsection.2.2.5}%
-\contentsline {section}{\numberline {III}}{13}{section.3}%
-\contentsline {subsection}{\numberline {3}Desarrollo}{13}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.1}Tareas por semana:}{13}{subsubsection.3.3.1}%
-\contentsline {paragraph}{\numberline {3.1.1}Tercera Semana de Febrero 2025}{13}{paragraph.3.3.1.1}%
-\contentsline {paragraph}{\numberline {3.1.2}Cuarta Semana de Febrero 2025}{14}{paragraph.3.3.1.2}%
-\contentsline {paragraph}{\numberline {3.1.3}Primera Semana de Marzo 2025}{15}{paragraph.3.3.1.3}%
-\contentsline {paragraph}{\numberline {3.1.4}Cuarta Semana de Marzo 2025}{16}{paragraph.3.3.1.4}%
-\contentsline {paragraph}{\numberline {3.1.5}Primera Semana de Abril 2025}{17}{paragraph.3.3.1.5}%
-\contentsline {subsubsection}{\numberline {3.2}Análisis de Red}{18}{subsubsection.3.3.2}%
-\contentsline {paragraph}{\numberline {3.2.1}Metodologías y Herramientas}{18}{paragraph.3.3.2.1}%
-\contentsline {paragraph}{\numberline {3.2.2}Hallazgos Principales}{19}{paragraph.3.3.2.2}%
-\contentsline {paragraph}{\numberline {3.2.3}Conclusiones del Análisis}{20}{paragraph.3.3.2.3}%
-\contentsline {section}{\numberline {IV}}{21}{section.4}%
-\contentsline {subsection}{\numberline {4}Resultados y Recomendaciones}{21}{subsection.4.4}%
-\contentsline {subsubsection}{\numberline {4.1}Resultados}{21}{subsubsection.4.4.1}%
-\contentsline {subsubsection}{\numberline {4.2}Recomendaciones}{22}{subsubsection.4.4.2}%
-\contentsline {subsection}{\numberline {5}Anexos}{27}{subsection.4.5}%
+\contentsline {subsection}{\numberline {1}Introducción}{4}{subsection.2}%
+\contentsline {subsubsection}{\numberline {1.1}ANTECEDENTES DE LA EMPRESA}{4}{subsubsection.3}%
+\contentsline {paragraph}{\numberline {1.1.1}Misión}{4}{paragraph.4}%
+\contentsline {paragraph}{\numberline {1.1.2}Visión}{4}{paragraph.5}%
+\contentsline {subsubsection}{\numberline {1.2}Definición del Problema}{6}{subsubsection.6}%
+\contentsline {subsubsection}{\numberline {1.3}Justificación}{7}{subsubsection.7}%
+\contentsline {subsubsection}{\numberline {1.4}Objetivo y metas}{8}{subsubsection.8}%
+\contentsline {paragraph}{\numberline {1.4.1}Objetivo general}{8}{paragraph.9}%
+\contentsline {paragraph}{\numberline {1.4.2}Objetivos específicos}{8}{paragraph.10}%
+\contentsline {section}{\numberline {II}}{10}{section.11}%
+\contentsline {subsection}{\numberline {2}Marco de Referencia}{10}{subsection.12}%
+\contentsline {subsubsection}{\numberline {2.1}Base Legal: Ley General de Protección de Datos (LGPDPSO)}{10}{subsubsection.13}%
+\contentsline {subsubsection}{\numberline {2.2}Estándares de Certificación del Laboratorio}{10}{subsubsection.14}%
+\contentsline {subsubsection}{\numberline {2.3}Integración Técnica con NIST CSF 2.0}{11}{subsubsection.16}%
+\contentsline {subsubsection}{\numberline {2.4}Sinergia Normativa}{11}{subsubsection.18}%
+\contentsline {subsubsection}{\numberline {2.5}Definiciones Técnicas Clave}{11}{subsubsection.19}%
+\contentsline {section}{\numberline {III}}{13}{section.20}%
+\contentsline {subsection}{\numberline {3}Desarrollo}{13}{subsection.21}%
+\contentsline {subsubsection}{\numberline {3.1}Tareas por semana:}{13}{subsubsection.22}%
+\contentsline {paragraph}{\numberline {3.1.1}Tercera Semana de Febrero 2025}{13}{paragraph.23}%
+\contentsline {paragraph}{\numberline {3.1.2}Cuarta Semana de Febrero 2025}{14}{paragraph.24}%
+\contentsline {paragraph}{\numberline {3.1.3}Primera Semana de Marzo 2025}{15}{paragraph.25}%
+\contentsline {paragraph}{\numberline {3.1.4}Cuarta Semana de Marzo 2025}{16}{paragraph.26}%
+\contentsline {paragraph}{\numberline {3.1.5}Primera Semana de Abril 2025}{17}{paragraph.27}%
+\contentsline {subsubsection}{\numberline {3.2}Análisis de Red}{18}{subsubsection.28}%
+\contentsline {paragraph}{\numberline {3.2.1}Metodologías y Herramientas}{18}{paragraph.29}%
+\contentsline {paragraph}{\numberline {3.2.2}Hallazgos Principales}{19}{paragraph.30}%
+\contentsline {paragraph}{\numberline {3.2.3}Conclusiones del Análisis}{20}{paragraph.31}%
+\contentsline {section}{\numberline {IV}}{21}{section.32}%
+\contentsline {subsection}{\numberline {4}Resultados y Recomendaciones}{21}{subsection.33}%
+\contentsline {subsubsection}{\numberline {4.1}Resultados}{21}{subsubsection.34}%
+\contentsline {subsubsection}{\numberline {4.2}Recomendaciones}{22}{subsubsection.35}%
+\contentsline {subsection}{\numberline {5}Anexos}{27}{subsection.36}%
 \contentsfinish 
